@@ -1,0 +1,3460 @@
+Search complete (0.033 seconds)
+{
+    "contributors": null, 
+    "truncated": false, 
+    "text": "RT @KevinHart4real: Droppa is undefeated in Rap Battles....@Klarity found out the hard way LOL\n#KevinHartWhatNow In theaters now! https://t\u2026", 
+    "is_quote_status": false, 
+    "in_reply_to_status_id": null, 
+    "id": 787756985726808064, 
+    "favorite_count": 0, 
+    "entities": {
+        "symbols": [], 
+        "user_mentions": [
+            {
+                "id": 23151437, 
+                "indices": [
+                    3, 
+                    18
+                ], 
+                "id_str": "23151437", 
+                "screen_name": "KevinHart4real", 
+                "name": "Kevin Hart"
+            }, 
+            {
+                "id": 485625262, 
+                "indices": [
+                    59, 
+                    67
+                ], 
+                "id_str": "485625262", 
+                "screen_name": "Klarity", 
+                "name": "Greg Davis Jr. \u265b"
+            }
+        ], 
+        "hashtags": [
+            {
+                "indices": [
+                    95, 
+                    112
+                ], 
+                "text": "KevinHartWhatNow"
+            }
+        ], 
+        "urls": []
+    }, 
+    "retweeted": false, 
+    "coordinates": null, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_user_id": null, 
+    "retweet_count": 2627, 
+    "id_str": "787756985726808064", 
+    "favorited": false, 
+    "retweeted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Droppa is undefeated in Rap Battles....@Klarity found out the hard way LOL\n#KevinHartWhatNow In theaters now! https://t.co/llPFRmaROU", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 787687225689419776, 
+        "favorite_count": 4001, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 485625262, 
+                    "indices": [
+                        39, 
+                        47
+                    ], 
+                    "id_str": "485625262", 
+                    "screen_name": "Klarity", 
+                    "name": "Greg Davis Jr. \u265b"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        75, 
+                        92
+                    ], 
+                    "text": "KevinHartWhatNow"
+                }
+            ], 
+            "urls": [], 
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/KevinHart4real/status/787687225689419776/video/1", 
+                    "display_url": "pic.twitter.com/llPFRmaROU", 
+                    "url": "https://t.co/llPFRmaROU", 
+                    "media_url_https": "https://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg", 
+                    "id_str": "787685050774982657", 
+                    "sizes": {
+                        "small": {
+                            "h": 383, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "large": {
+                            "h": 1152, 
+                            "resize": "fit", 
+                            "w": 2048
+                        }, 
+                        "medium": {
+                            "h": 675, 
+                            "resize": "fit", 
+                            "w": 1200
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        110, 
+                        133
+                    ], 
+                    "type": "photo", 
+                    "id": 787685050774982657, 
+                    "media_url": "http://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg"
+                }
+            ]
+        }, 
+        "retweeted": false, 
+        "coordinates": null, 
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 2627, 
+        "id_str": "787687225689419776", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 23151437, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/769775481692364801/j5nXOVaH_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/mZwaXJBXuw", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "https://goo.gl/nW02Tk", 
+                            "display_url": "goo.gl/nW02Tk"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 30902319, 
+            "profile_sidebar_border_color": "EEEEEE", 
+            "id_str": "23151437", 
+            "profile_background_color": "131516", 
+            "listed_count": 22921, 
+            "is_translation_enabled": true, 
+            "utc_offset": -25200, 
+            "statuses_count": 31620, 
+            "description": "My name is Kevin Hart and I WORK HARD!!! That pretty much sums me up!!! Everybody Wants To Be Famous But Nobody Wants To Do The Work", 
+            "friends_count": 544, 
+            "location": "Philly/LA", 
+            "profile_link_color": "009999", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/769775481692364801/j5nXOVaH_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/23151437/1472363722", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "screen_name": "KevinHart4real", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 47, 
+            "name": "Kevin Hart", 
+            "notifications": false, 
+            "url": "https://t.co/mZwaXJBXuw", 
+            "created_at": "Sat Mar 07 02:02:31 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Sun Oct 16 16:10:43 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+            "media": [
+                {
+                    "additional_media_info": {
+                        "monetizable": false, 
+                        "embeddable": true, 
+                        "call_to_actions": {
+                            "visit_site": {
+                                "url": "http://www.fandango.com/kevin-hart-what-now_188525/movieoverview"
+                            }
+                        }, 
+                        "description": "", 
+                        "title": ""
+                    }, 
+                    "expanded_url": "https://twitter.com/KevinHart4real/status/787687225689419776/video/1", 
+                    "display_url": "pic.twitter.com/llPFRmaROU", 
+                    "url": "https://t.co/llPFRmaROU", 
+                    "media_url_https": "https://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg", 
+                    "video_info": {
+                        "aspect_ratio": [
+                            16, 
+                            9
+                        ], 
+                        "duration_millis": 233359, 
+                        "variants": [
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/pl/I-myR2cbTStFcOhA.m3u8", 
+                                "content_type": "application/x-mpegURL"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/1280x720/A62SrFyO1Win1BYE.mp4", 
+                                "bitrate": 2176000, 
+                                "content_type": "video/mp4"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/320x180/9jKTEW985bybFmmp.mp4", 
+                                "bitrate": 320000, 
+                                "content_type": "video/mp4"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/pl/I-myR2cbTStFcOhA.mpd", 
+                                "content_type": "application/dash+xml"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/640x360/mWvgetsuaSgkxp0E.mp4", 
+                                "bitrate": 832000, 
+                                "content_type": "video/mp4"
+                            }
+                        ]
+                    }, 
+                    "id_str": "787685050774982657", 
+                    "sizes": {
+                        "small": {
+                            "h": 383, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "large": {
+                            "h": 1152, 
+                            "resize": "fit", 
+                            "w": 2048
+                        }, 
+                        "medium": {
+                            "h": 675, 
+                            "resize": "fit", 
+                            "w": 1200
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        110, 
+                        133
+                    ], 
+                    "type": "video", 
+                    "id": 787685050774982657, 
+                    "media_url": "http://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg"
+                }
+            ]
+        }, 
+        "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+        }
+    }, 
+    "user": {
+        "follow_request_sent": false, 
+        "has_extended_profile": true, 
+        "profile_use_background_image": false, 
+        "default_profile_image": false, 
+        "id": 779915010, 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "verified": false, 
+        "translator_type": "none", 
+        "profile_text_color": "000000", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/776875841804316672/p8e3eBpM_normal.jpg", 
+        "profile_sidebar_fill_color": "000000", 
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/pwpWKndrTL", 
+                        "indices": [
+                            0, 
+                            23
+                        ], 
+                        "expanded_url": "http://kevinokezie.wix.com/mrking", 
+                        "display_url": "kevinokezie.wix.com/mrking"
+                    }
+                ]
+            }, 
+            "description": {
+                "urls": []
+            }
+        }, 
+        "followers_count": 716, 
+        "profile_sidebar_border_color": "000000", 
+        "id_str": "779915010", 
+        "profile_background_color": "000000", 
+        "listed_count": 1, 
+        "is_translation_enabled": false, 
+        "utc_offset": -25200, 
+        "statuses_count": 2013, 
+        "description": "Mr. King...Remember that name...", 
+        "friends_count": 467, 
+        "location": "Naples, Italy", 
+        "profile_link_color": "E81C4F", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/776875841804316672/p8e3eBpM_normal.jpg", 
+        "following": false, 
+        "geo_enabled": true, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/779915010/1465177282", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "screen_name": "MistrDaVinci", 
+        "lang": "en", 
+        "profile_background_tile": false, 
+        "favourites_count": 4897, 
+        "name": "Mr. King", 
+        "notifications": false, 
+        "url": "https://t.co/pwpWKndrTL", 
+        "created_at": "Sat Aug 25 08:57:00 +0000 2012", 
+        "contributors_enabled": false, 
+        "time_zone": "Pacific Time (US & Canada)", 
+        "protected": false, 
+        "default_profile": false, 
+        "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Sun Oct 16 20:47:55 +0000 2016", 
+    "in_reply_to_status_id_str": null, 
+    "place": null, 
+    "metadata": {
+        "iso_language_code": "en", 
+        "result_type": "recent"
+    }
+}
+{
+    "contributors": null, 
+    "truncated": false, 
+    "text": "RT @KevinHart4real: Droppa is undefeated in Rap Battles....@Klarity found out the hard way LOL\n#KevinHartWhatNow In theaters now! https://t\u2026", 
+    "is_quote_status": false, 
+    "in_reply_to_status_id": null, 
+    "id": 787756800405803008, 
+    "favorite_count": 0, 
+    "entities": {
+        "symbols": [], 
+        "user_mentions": [
+            {
+                "id": 23151437, 
+                "indices": [
+                    3, 
+                    18
+                ], 
+                "id_str": "23151437", 
+                "screen_name": "KevinHart4real", 
+                "name": "Kevin Hart"
+            }, 
+            {
+                "id": 485625262, 
+                "indices": [
+                    59, 
+                    67
+                ], 
+                "id_str": "485625262", 
+                "screen_name": "Klarity", 
+                "name": "Greg Davis Jr. \u265b"
+            }
+        ], 
+        "hashtags": [
+            {
+                "indices": [
+                    95, 
+                    112
+                ], 
+                "text": "KevinHartWhatNow"
+            }
+        ], 
+        "urls": []
+    }, 
+    "retweeted": false, 
+    "coordinates": null, 
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_user_id": null, 
+    "retweet_count": 2627, 
+    "id_str": "787756800405803008", 
+    "favorited": false, 
+    "retweeted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Droppa is undefeated in Rap Battles....@Klarity found out the hard way LOL\n#KevinHartWhatNow In theaters now! https://t.co/llPFRmaROU", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 787687225689419776, 
+        "favorite_count": 4001, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 485625262, 
+                    "indices": [
+                        39, 
+                        47
+                    ], 
+                    "id_str": "485625262", 
+                    "screen_name": "Klarity", 
+                    "name": "Greg Davis Jr. \u265b"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        75, 
+                        92
+                    ], 
+                    "text": "KevinHartWhatNow"
+                }
+            ], 
+            "urls": [], 
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/KevinHart4real/status/787687225689419776/video/1", 
+                    "display_url": "pic.twitter.com/llPFRmaROU", 
+                    "url": "https://t.co/llPFRmaROU", 
+                    "media_url_https": "https://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg", 
+                    "id_str": "787685050774982657", 
+                    "sizes": {
+                        "small": {
+                            "h": 383, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "large": {
+                            "h": 1152, 
+                            "resize": "fit", 
+                            "w": 2048
+                        }, 
+                        "medium": {
+                            "h": 675, 
+                            "resize": "fit", 
+                            "w": 1200
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        110, 
+                        133
+                    ], 
+                    "type": "photo", 
+                    "id": 787685050774982657, 
+                    "media_url": "http://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg"
+                }
+            ]
+        }, 
+        "retweeted": false, 
+        "coordinates": null, 
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 2627, 
+        "id_str": "787687225689419776", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 23151437, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/769775481692364801/j5nXOVaH_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/mZwaXJBXuw", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "https://goo.gl/nW02Tk", 
+                            "display_url": "goo.gl/nW02Tk"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 30902319, 
+            "profile_sidebar_border_color": "EEEEEE", 
+            "id_str": "23151437", 
+            "profile_background_color": "131516", 
+            "listed_count": 22921, 
+            "is_translation_enabled": true, 
+            "utc_offset": -25200, 
+            "statuses_count": 31620, 
+            "description": "My name is Kevin Hart and I WORK HARD!!! That pretty much sums me up!!! Everybody Wants To Be Famous But Nobody Wants To Do The Work", 
+            "friends_count": 544, 
+            "location": "Philly/LA", 
+            "profile_link_color": "009999", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/769775481692364801/j5nXOVaH_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/23151437/1472363722", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "screen_name": "KevinHart4real", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 47, 
+            "name": "Kevin Hart", 
+            "notifications": false, 
+            "url": "https://t.co/mZwaXJBXuw", 
+            "created_at": "Sat Mar 07 02:02:31 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Sun Oct 16 16:10:43 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+            "media": [
+                {
+                    "additional_media_info": {
+                        "monetizable": false, 
+                        "embeddable": true, 
+                        "call_to_actions": {
+                            "visit_site": {
+                                "url": "http://www.fandango.com/kevin-hart-what-now_188525/movieoverview"
+                            }
+                        }, 
+                        "description": "", 
+                        "title": ""
+                    }, 
+                    "expanded_url": "https://twitter.com/KevinHart4real/status/787687225689419776/video/1", 
+                    "display_url": "pic.twitter.com/llPFRmaROU", 
+                    "url": "https://t.co/llPFRmaROU", 
+                    "media_url_https": "https://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg", 
+                    "video_info": {
+                        "aspect_ratio": [
+                            16, 
+                            9
+                        ], 
+                        "duration_millis": 233359, 
+                        "variants": [
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/pl/I-myR2cbTStFcOhA.m3u8", 
+                                "content_type": "application/x-mpegURL"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/1280x720/A62SrFyO1Win1BYE.mp4", 
+                                "bitrate": 2176000, 
+                                "content_type": "video/mp4"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/320x180/9jKTEW985bybFmmp.mp4", 
+                                "bitrate": 320000, 
+                                "content_type": "video/mp4"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/pl/I-myR2cbTStFcOhA.mpd", 
+                                "content_type": "application/dash+xml"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/640x360/mWvgetsuaSgkxp0E.mp4", 
+                                "bitrate": 832000, 
+                                "content_type": "video/mp4"
+                            }
+                        ]
+                    }, 
+                    "id_str": "787685050774982657", 
+                    "sizes": {
+                        "small": {
+                            "h": 383, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "large": {
+                            "h": 1152, 
+                            "resize": "fit", 
+                            "w": 2048
+                        }, 
+                        "medium": {
+                            "h": 675, 
+                            "resize": "fit", 
+                            "w": 1200
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        110, 
+                        133
+                    ], 
+                    "type": "video", 
+                    "id": 787685050774982657, 
+                    "media_url": "http://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg"
+                }
+            ]
+        }, 
+        "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+        }
+    }, 
+    "user": {
+        "follow_request_sent": false, 
+        "has_extended_profile": false, 
+        "profile_use_background_image": true, 
+        "default_profile_image": false, 
+        "id": 786055469496463360, 
+        "profile_background_image_url_https": null, 
+        "verified": false, 
+        "translator_type": "none", 
+        "profile_text_color": "333333", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/786057808106123264/2M8WzkRB_normal.jpg", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "followers_count": 44, 
+        "profile_sidebar_border_color": "C0DEED", 
+        "id_str": "786055469496463360", 
+        "profile_background_color": "F5F8FA", 
+        "listed_count": 0, 
+        "is_translation_enabled": false, 
+        "utc_offset": null, 
+        "statuses_count": 125, 
+        "description": "#ShayGang\ud83d\udc7c #RestTaj\ud83d\udc7c \nTheHustleBus -5042091980\ud83d\udc4d \nplotting.....\u2764", 
+        "friends_count": 177, 
+        "location": "", 
+        "profile_link_color": "2B7BB9", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/786057808106123264/2M8WzkRB_normal.jpg", 
+        "following": false, 
+        "geo_enabled": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/786055469496463360/1476245759", 
+        "profile_background_image_url": null, 
+        "screen_name": "Beeezogangg", 
+        "lang": "en", 
+        "profile_background_tile": false, 
+        "favourites_count": 50, 
+        "name": "\ud83d\udc94Taj&Shay\ud83d\udc94", 
+        "notifications": false, 
+        "url": null, 
+        "created_at": "Wed Oct 12 04:06:42 +0000 2016", 
+        "contributors_enabled": false, 
+        "time_zone": null, 
+        "protected": false, 
+        "default_profile": true, 
+        "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Sun Oct 16 20:47:11 +0000 2016", 
+    "in_reply_to_status_id_str": null, 
+    "place": null, 
+    "metadata": {
+        "iso_language_code": "en", 
+        "result_type": "recent"
+    }
+}
+{
+    "contributors": null, 
+    "truncated": false, 
+    "text": "RT @KevinHart4real: Droppa is undefeated in Rap Battles....@Klarity found out the hard way LOL\n#KevinHartWhatNow In theaters now! https://t\u2026", 
+    "is_quote_status": false, 
+    "in_reply_to_status_id": null, 
+    "id": 787756729144487937, 
+    "favorite_count": 0, 
+    "entities": {
+        "symbols": [], 
+        "user_mentions": [
+            {
+                "id": 23151437, 
+                "indices": [
+                    3, 
+                    18
+                ], 
+                "id_str": "23151437", 
+                "screen_name": "KevinHart4real", 
+                "name": "Kevin Hart"
+            }, 
+            {
+                "id": 485625262, 
+                "indices": [
+                    59, 
+                    67
+                ], 
+                "id_str": "485625262", 
+                "screen_name": "Klarity", 
+                "name": "Greg Davis Jr. \u265b"
+            }
+        ], 
+        "hashtags": [
+            {
+                "indices": [
+                    95, 
+                    112
+                ], 
+                "text": "KevinHartWhatNow"
+            }
+        ], 
+        "urls": []
+    }, 
+    "retweeted": false, 
+    "coordinates": null, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_user_id": null, 
+    "retweet_count": 2627, 
+    "id_str": "787756729144487937", 
+    "favorited": false, 
+    "retweeted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Droppa is undefeated in Rap Battles....@Klarity found out the hard way LOL\n#KevinHartWhatNow In theaters now! https://t.co/llPFRmaROU", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 787687225689419776, 
+        "favorite_count": 4001, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 485625262, 
+                    "indices": [
+                        39, 
+                        47
+                    ], 
+                    "id_str": "485625262", 
+                    "screen_name": "Klarity", 
+                    "name": "Greg Davis Jr. \u265b"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        75, 
+                        92
+                    ], 
+                    "text": "KevinHartWhatNow"
+                }
+            ], 
+            "urls": [], 
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/KevinHart4real/status/787687225689419776/video/1", 
+                    "display_url": "pic.twitter.com/llPFRmaROU", 
+                    "url": "https://t.co/llPFRmaROU", 
+                    "media_url_https": "https://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg", 
+                    "id_str": "787685050774982657", 
+                    "sizes": {
+                        "small": {
+                            "h": 383, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "large": {
+                            "h": 1152, 
+                            "resize": "fit", 
+                            "w": 2048
+                        }, 
+                        "medium": {
+                            "h": 675, 
+                            "resize": "fit", 
+                            "w": 1200
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        110, 
+                        133
+                    ], 
+                    "type": "photo", 
+                    "id": 787685050774982657, 
+                    "media_url": "http://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg"
+                }
+            ]
+        }, 
+        "retweeted": false, 
+        "coordinates": null, 
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 2627, 
+        "id_str": "787687225689419776", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 23151437, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/769775481692364801/j5nXOVaH_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/mZwaXJBXuw", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "https://goo.gl/nW02Tk", 
+                            "display_url": "goo.gl/nW02Tk"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 30902319, 
+            "profile_sidebar_border_color": "EEEEEE", 
+            "id_str": "23151437", 
+            "profile_background_color": "131516", 
+            "listed_count": 22921, 
+            "is_translation_enabled": true, 
+            "utc_offset": -25200, 
+            "statuses_count": 31620, 
+            "description": "My name is Kevin Hart and I WORK HARD!!! That pretty much sums me up!!! Everybody Wants To Be Famous But Nobody Wants To Do The Work", 
+            "friends_count": 544, 
+            "location": "Philly/LA", 
+            "profile_link_color": "009999", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/769775481692364801/j5nXOVaH_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/23151437/1472363722", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "screen_name": "KevinHart4real", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 47, 
+            "name": "Kevin Hart", 
+            "notifications": false, 
+            "url": "https://t.co/mZwaXJBXuw", 
+            "created_at": "Sat Mar 07 02:02:31 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Sun Oct 16 16:10:43 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+            "media": [
+                {
+                    "additional_media_info": {
+                        "monetizable": false, 
+                        "embeddable": true, 
+                        "call_to_actions": {
+                            "visit_site": {
+                                "url": "http://www.fandango.com/kevin-hart-what-now_188525/movieoverview"
+                            }
+                        }, 
+                        "description": "", 
+                        "title": ""
+                    }, 
+                    "expanded_url": "https://twitter.com/KevinHart4real/status/787687225689419776/video/1", 
+                    "display_url": "pic.twitter.com/llPFRmaROU", 
+                    "url": "https://t.co/llPFRmaROU", 
+                    "media_url_https": "https://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg", 
+                    "video_info": {
+                        "aspect_ratio": [
+                            16, 
+                            9
+                        ], 
+                        "duration_millis": 233359, 
+                        "variants": [
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/pl/I-myR2cbTStFcOhA.m3u8", 
+                                "content_type": "application/x-mpegURL"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/1280x720/A62SrFyO1Win1BYE.mp4", 
+                                "bitrate": 2176000, 
+                                "content_type": "video/mp4"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/320x180/9jKTEW985bybFmmp.mp4", 
+                                "bitrate": 320000, 
+                                "content_type": "video/mp4"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/pl/I-myR2cbTStFcOhA.mpd", 
+                                "content_type": "application/dash+xml"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/640x360/mWvgetsuaSgkxp0E.mp4", 
+                                "bitrate": 832000, 
+                                "content_type": "video/mp4"
+                            }
+                        ]
+                    }, 
+                    "id_str": "787685050774982657", 
+                    "sizes": {
+                        "small": {
+                            "h": 383, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "large": {
+                            "h": 1152, 
+                            "resize": "fit", 
+                            "w": 2048
+                        }, 
+                        "medium": {
+                            "h": 675, 
+                            "resize": "fit", 
+                            "w": 1200
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        110, 
+                        133
+                    ], 
+                    "type": "video", 
+                    "id": 787685050774982657, 
+                    "media_url": "http://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg"
+                }
+            ]
+        }, 
+        "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+        }
+    }, 
+    "user": {
+        "follow_request_sent": false, 
+        "has_extended_profile": false, 
+        "profile_use_background_image": true, 
+        "default_profile_image": false, 
+        "id": 401805040, 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "verified": false, 
+        "translator_type": "none", 
+        "profile_text_color": "333333", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/622869695230640128/oKzIIkg3_normal.jpg", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "followers_count": 544, 
+        "profile_sidebar_border_color": "C0DEED", 
+        "id_str": "401805040", 
+        "profile_background_color": "C0DEED", 
+        "listed_count": 1, 
+        "is_translation_enabled": false, 
+        "utc_offset": null, 
+        "statuses_count": 10895, 
+        "description": "BOS \u2708\ufe0f AZ. #34-TheTruth", 
+        "friends_count": 742, 
+        "location": "", 
+        "profile_link_color": "0084B4", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/622869695230640128/oKzIIkg3_normal.jpg", 
+        "following": false, 
+        "geo_enabled": true, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/401805040/1422465072", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "screen_name": "Rfesta34", 
+        "lang": "en", 
+        "profile_background_tile": false, 
+        "favourites_count": 7875, 
+        "name": "\u0f5e\u10e7\u0105\u014b", 
+        "notifications": false, 
+        "url": null, 
+        "created_at": "Mon Oct 31 03:27:54 +0000 2011", 
+        "contributors_enabled": false, 
+        "time_zone": null, 
+        "protected": false, 
+        "default_profile": true, 
+        "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Sun Oct 16 20:46:54 +0000 2016", 
+    "in_reply_to_status_id_str": null, 
+    "place": null, 
+    "metadata": {
+        "iso_language_code": "en", 
+        "result_type": "recent"
+    }
+}
+{
+    "contributors": null, 
+    "truncated": false, 
+    "text": "RT @KevinHart4real: Droppa is undefeated in Rap Battles....@Klarity found out the hard way LOL\n#KevinHartWhatNow In theaters now! https://t\u2026", 
+    "is_quote_status": false, 
+    "in_reply_to_status_id": null, 
+    "id": 787756702758277121, 
+    "favorite_count": 0, 
+    "entities": {
+        "symbols": [], 
+        "user_mentions": [
+            {
+                "id": 23151437, 
+                "indices": [
+                    3, 
+                    18
+                ], 
+                "id_str": "23151437", 
+                "screen_name": "KevinHart4real", 
+                "name": "Kevin Hart"
+            }, 
+            {
+                "id": 485625262, 
+                "indices": [
+                    59, 
+                    67
+                ], 
+                "id_str": "485625262", 
+                "screen_name": "Klarity", 
+                "name": "Greg Davis Jr. \u265b"
+            }
+        ], 
+        "hashtags": [
+            {
+                "indices": [
+                    95, 
+                    112
+                ], 
+                "text": "KevinHartWhatNow"
+            }
+        ], 
+        "urls": []
+    }, 
+    "retweeted": false, 
+    "coordinates": null, 
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_user_id": null, 
+    "retweet_count": 2627, 
+    "id_str": "787756702758277121", 
+    "favorited": false, 
+    "retweeted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Droppa is undefeated in Rap Battles....@Klarity found out the hard way LOL\n#KevinHartWhatNow In theaters now! https://t.co/llPFRmaROU", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 787687225689419776, 
+        "favorite_count": 4001, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 485625262, 
+                    "indices": [
+                        39, 
+                        47
+                    ], 
+                    "id_str": "485625262", 
+                    "screen_name": "Klarity", 
+                    "name": "Greg Davis Jr. \u265b"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        75, 
+                        92
+                    ], 
+                    "text": "KevinHartWhatNow"
+                }
+            ], 
+            "urls": [], 
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/KevinHart4real/status/787687225689419776/video/1", 
+                    "display_url": "pic.twitter.com/llPFRmaROU", 
+                    "url": "https://t.co/llPFRmaROU", 
+                    "media_url_https": "https://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg", 
+                    "id_str": "787685050774982657", 
+                    "sizes": {
+                        "small": {
+                            "h": 383, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "large": {
+                            "h": 1152, 
+                            "resize": "fit", 
+                            "w": 2048
+                        }, 
+                        "medium": {
+                            "h": 675, 
+                            "resize": "fit", 
+                            "w": 1200
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        110, 
+                        133
+                    ], 
+                    "type": "photo", 
+                    "id": 787685050774982657, 
+                    "media_url": "http://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg"
+                }
+            ]
+        }, 
+        "retweeted": false, 
+        "coordinates": null, 
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 2627, 
+        "id_str": "787687225689419776", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 23151437, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/769775481692364801/j5nXOVaH_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/mZwaXJBXuw", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "https://goo.gl/nW02Tk", 
+                            "display_url": "goo.gl/nW02Tk"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 30902319, 
+            "profile_sidebar_border_color": "EEEEEE", 
+            "id_str": "23151437", 
+            "profile_background_color": "131516", 
+            "listed_count": 22921, 
+            "is_translation_enabled": true, 
+            "utc_offset": -25200, 
+            "statuses_count": 31620, 
+            "description": "My name is Kevin Hart and I WORK HARD!!! That pretty much sums me up!!! Everybody Wants To Be Famous But Nobody Wants To Do The Work", 
+            "friends_count": 544, 
+            "location": "Philly/LA", 
+            "profile_link_color": "009999", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/769775481692364801/j5nXOVaH_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/23151437/1472363722", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "screen_name": "KevinHart4real", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 47, 
+            "name": "Kevin Hart", 
+            "notifications": false, 
+            "url": "https://t.co/mZwaXJBXuw", 
+            "created_at": "Sat Mar 07 02:02:31 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Sun Oct 16 16:10:43 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+            "media": [
+                {
+                    "additional_media_info": {
+                        "monetizable": false, 
+                        "embeddable": true, 
+                        "call_to_actions": {
+                            "visit_site": {
+                                "url": "http://www.fandango.com/kevin-hart-what-now_188525/movieoverview"
+                            }
+                        }, 
+                        "description": "", 
+                        "title": ""
+                    }, 
+                    "expanded_url": "https://twitter.com/KevinHart4real/status/787687225689419776/video/1", 
+                    "display_url": "pic.twitter.com/llPFRmaROU", 
+                    "url": "https://t.co/llPFRmaROU", 
+                    "media_url_https": "https://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg", 
+                    "video_info": {
+                        "aspect_ratio": [
+                            16, 
+                            9
+                        ], 
+                        "duration_millis": 233359, 
+                        "variants": [
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/pl/I-myR2cbTStFcOhA.m3u8", 
+                                "content_type": "application/x-mpegURL"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/1280x720/A62SrFyO1Win1BYE.mp4", 
+                                "bitrate": 2176000, 
+                                "content_type": "video/mp4"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/320x180/9jKTEW985bybFmmp.mp4", 
+                                "bitrate": 320000, 
+                                "content_type": "video/mp4"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/pl/I-myR2cbTStFcOhA.mpd", 
+                                "content_type": "application/dash+xml"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/640x360/mWvgetsuaSgkxp0E.mp4", 
+                                "bitrate": 832000, 
+                                "content_type": "video/mp4"
+                            }
+                        ]
+                    }, 
+                    "id_str": "787685050774982657", 
+                    "sizes": {
+                        "small": {
+                            "h": 383, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "large": {
+                            "h": 1152, 
+                            "resize": "fit", 
+                            "w": 2048
+                        }, 
+                        "medium": {
+                            "h": 675, 
+                            "resize": "fit", 
+                            "w": 1200
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        110, 
+                        133
+                    ], 
+                    "type": "video", 
+                    "id": 787685050774982657, 
+                    "media_url": "http://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg"
+                }
+            ]
+        }, 
+        "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+        }
+    }, 
+    "user": {
+        "follow_request_sent": false, 
+        "has_extended_profile": false, 
+        "profile_use_background_image": true, 
+        "default_profile_image": false, 
+        "id": 3480063382, 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "verified": false, 
+        "translator_type": "none", 
+        "profile_text_color": "333333", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/754208058562207744/tjHLOHZM_normal.jpg", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "followers_count": 4754, 
+        "profile_sidebar_border_color": "C0DEED", 
+        "id_str": "3480063382", 
+        "profile_background_color": "C0DEED", 
+        "listed_count": 109, 
+        "is_translation_enabled": false, 
+        "utc_offset": null, 
+        "statuses_count": 95234, 
+        "description": "Evolving...", 
+        "friends_count": 444, 
+        "location": "the West ", 
+        "profile_link_color": "0084B4", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/754208058562207744/tjHLOHZM_normal.jpg", 
+        "following": false, 
+        "geo_enabled": true, 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "screen_name": "iamagormeda", 
+        "lang": "en", 
+        "profile_background_tile": false, 
+        "favourites_count": 108, 
+        "name": "Cocoa Season", 
+        "notifications": false, 
+        "url": null, 
+        "created_at": "Sat Aug 29 11:58:34 +0000 2015", 
+        "contributors_enabled": false, 
+        "time_zone": null, 
+        "protected": false, 
+        "default_profile": true, 
+        "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Sun Oct 16 20:46:48 +0000 2016", 
+    "in_reply_to_status_id_str": null, 
+    "place": null, 
+    "metadata": {
+        "iso_language_code": "en", 
+        "result_type": "recent"
+    }
+}
+{
+    "contributors": null, 
+    "truncated": false, 
+    "text": "RT @KevinHart4real: Droppa is undefeated in Rap Battles....@Klarity found out the hard way LOL\n#KevinHartWhatNow In theaters now! https://t\u2026", 
+    "is_quote_status": false, 
+    "in_reply_to_status_id": null, 
+    "id": 787756635531964416, 
+    "favorite_count": 0, 
+    "entities": {
+        "symbols": [], 
+        "user_mentions": [
+            {
+                "id": 23151437, 
+                "indices": [
+                    3, 
+                    18
+                ], 
+                "id_str": "23151437", 
+                "screen_name": "KevinHart4real", 
+                "name": "Kevin Hart"
+            }, 
+            {
+                "id": 485625262, 
+                "indices": [
+                    59, 
+                    67
+                ], 
+                "id_str": "485625262", 
+                "screen_name": "Klarity", 
+                "name": "Greg Davis Jr. \u265b"
+            }
+        ], 
+        "hashtags": [
+            {
+                "indices": [
+                    95, 
+                    112
+                ], 
+                "text": "KevinHartWhatNow"
+            }
+        ], 
+        "urls": []
+    }, 
+    "retweeted": false, 
+    "coordinates": null, 
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_user_id": null, 
+    "retweet_count": 2627, 
+    "id_str": "787756635531964416", 
+    "favorited": false, 
+    "retweeted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Droppa is undefeated in Rap Battles....@Klarity found out the hard way LOL\n#KevinHartWhatNow In theaters now! https://t.co/llPFRmaROU", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 787687225689419776, 
+        "favorite_count": 4001, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 485625262, 
+                    "indices": [
+                        39, 
+                        47
+                    ], 
+                    "id_str": "485625262", 
+                    "screen_name": "Klarity", 
+                    "name": "Greg Davis Jr. \u265b"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        75, 
+                        92
+                    ], 
+                    "text": "KevinHartWhatNow"
+                }
+            ], 
+            "urls": [], 
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/KevinHart4real/status/787687225689419776/video/1", 
+                    "display_url": "pic.twitter.com/llPFRmaROU", 
+                    "url": "https://t.co/llPFRmaROU", 
+                    "media_url_https": "https://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg", 
+                    "id_str": "787685050774982657", 
+                    "sizes": {
+                        "small": {
+                            "h": 383, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "large": {
+                            "h": 1152, 
+                            "resize": "fit", 
+                            "w": 2048
+                        }, 
+                        "medium": {
+                            "h": 675, 
+                            "resize": "fit", 
+                            "w": 1200
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        110, 
+                        133
+                    ], 
+                    "type": "photo", 
+                    "id": 787685050774982657, 
+                    "media_url": "http://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg"
+                }
+            ]
+        }, 
+        "retweeted": false, 
+        "coordinates": null, 
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 2627, 
+        "id_str": "787687225689419776", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 23151437, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/769775481692364801/j5nXOVaH_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/mZwaXJBXuw", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "https://goo.gl/nW02Tk", 
+                            "display_url": "goo.gl/nW02Tk"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 30902319, 
+            "profile_sidebar_border_color": "EEEEEE", 
+            "id_str": "23151437", 
+            "profile_background_color": "131516", 
+            "listed_count": 22921, 
+            "is_translation_enabled": true, 
+            "utc_offset": -25200, 
+            "statuses_count": 31620, 
+            "description": "My name is Kevin Hart and I WORK HARD!!! That pretty much sums me up!!! Everybody Wants To Be Famous But Nobody Wants To Do The Work", 
+            "friends_count": 544, 
+            "location": "Philly/LA", 
+            "profile_link_color": "009999", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/769775481692364801/j5nXOVaH_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/23151437/1472363722", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "screen_name": "KevinHart4real", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 47, 
+            "name": "Kevin Hart", 
+            "notifications": false, 
+            "url": "https://t.co/mZwaXJBXuw", 
+            "created_at": "Sat Mar 07 02:02:31 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Sun Oct 16 16:10:43 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+            "media": [
+                {
+                    "additional_media_info": {
+                        "monetizable": false, 
+                        "embeddable": true, 
+                        "call_to_actions": {
+                            "visit_site": {
+                                "url": "http://www.fandango.com/kevin-hart-what-now_188525/movieoverview"
+                            }
+                        }, 
+                        "description": "", 
+                        "title": ""
+                    }, 
+                    "expanded_url": "https://twitter.com/KevinHart4real/status/787687225689419776/video/1", 
+                    "display_url": "pic.twitter.com/llPFRmaROU", 
+                    "url": "https://t.co/llPFRmaROU", 
+                    "media_url_https": "https://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg", 
+                    "video_info": {
+                        "aspect_ratio": [
+                            16, 
+                            9
+                        ], 
+                        "duration_millis": 233359, 
+                        "variants": [
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/pl/I-myR2cbTStFcOhA.m3u8", 
+                                "content_type": "application/x-mpegURL"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/1280x720/A62SrFyO1Win1BYE.mp4", 
+                                "bitrate": 2176000, 
+                                "content_type": "video/mp4"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/320x180/9jKTEW985bybFmmp.mp4", 
+                                "bitrate": 320000, 
+                                "content_type": "video/mp4"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/pl/I-myR2cbTStFcOhA.mpd", 
+                                "content_type": "application/dash+xml"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/640x360/mWvgetsuaSgkxp0E.mp4", 
+                                "bitrate": 832000, 
+                                "content_type": "video/mp4"
+                            }
+                        ]
+                    }, 
+                    "id_str": "787685050774982657", 
+                    "sizes": {
+                        "small": {
+                            "h": 383, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "large": {
+                            "h": 1152, 
+                            "resize": "fit", 
+                            "w": 2048
+                        }, 
+                        "medium": {
+                            "h": 675, 
+                            "resize": "fit", 
+                            "w": 1200
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        110, 
+                        133
+                    ], 
+                    "type": "video", 
+                    "id": 787685050774982657, 
+                    "media_url": "http://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg"
+                }
+            ]
+        }, 
+        "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+        }
+    }, 
+    "user": {
+        "follow_request_sent": false, 
+        "has_extended_profile": false, 
+        "profile_use_background_image": true, 
+        "default_profile_image": false, 
+        "id": 332890912, 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "verified": false, 
+        "translator_type": "none", 
+        "profile_text_color": "333333", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3373132678/a3edb159d8c7306e2e40cf144194f0f3_normal.jpeg", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "followers_count": 34, 
+        "profile_sidebar_border_color": "C0DEED", 
+        "id_str": "332890912", 
+        "profile_background_color": "C0DEED", 
+        "listed_count": 0, 
+        "is_translation_enabled": false, 
+        "utc_offset": null, 
+        "statuses_count": 409, 
+        "description": "", 
+        "friends_count": 99, 
+        "location": "", 
+        "profile_link_color": "0084B4", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3373132678/a3edb159d8c7306e2e40cf144194f0f3_normal.jpeg", 
+        "following": false, 
+        "geo_enabled": false, 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "screen_name": "dha_godfather", 
+        "lang": "en", 
+        "profile_background_tile": false, 
+        "favourites_count": 642, 
+        "name": "ninja", 
+        "notifications": false, 
+        "url": null, 
+        "created_at": "Sun Jul 10 16:18:06 +0000 2011", 
+        "contributors_enabled": false, 
+        "time_zone": null, 
+        "protected": false, 
+        "default_profile": true, 
+        "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Sun Oct 16 20:46:32 +0000 2016", 
+    "in_reply_to_status_id_str": null, 
+    "place": null, 
+    "metadata": {
+        "iso_language_code": "en", 
+        "result_type": "recent"
+    }
+}
+{
+    "contributors": null, 
+    "truncated": false, 
+    "text": "RT @KevinHart4real: Droppa is undefeated in Rap Battles....@Klarity found out the hard way LOL\n#KevinHartWhatNow In theaters now! https://t\u2026", 
+    "is_quote_status": false, 
+    "in_reply_to_status_id": null, 
+    "id": 787756621887746048, 
+    "favorite_count": 0, 
+    "entities": {
+        "symbols": [], 
+        "user_mentions": [
+            {
+                "id": 23151437, 
+                "indices": [
+                    3, 
+                    18
+                ], 
+                "id_str": "23151437", 
+                "screen_name": "KevinHart4real", 
+                "name": "Kevin Hart"
+            }, 
+            {
+                "id": 485625262, 
+                "indices": [
+                    59, 
+                    67
+                ], 
+                "id_str": "485625262", 
+                "screen_name": "Klarity", 
+                "name": "Greg Davis Jr. \u265b"
+            }
+        ], 
+        "hashtags": [
+            {
+                "indices": [
+                    95, 
+                    112
+                ], 
+                "text": "KevinHartWhatNow"
+            }
+        ], 
+        "urls": []
+    }, 
+    "retweeted": false, 
+    "coordinates": null, 
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_user_id": null, 
+    "retweet_count": 2627, 
+    "id_str": "787756621887746048", 
+    "favorited": false, 
+    "retweeted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Droppa is undefeated in Rap Battles....@Klarity found out the hard way LOL\n#KevinHartWhatNow In theaters now! https://t.co/llPFRmaROU", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 787687225689419776, 
+        "favorite_count": 4001, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 485625262, 
+                    "indices": [
+                        39, 
+                        47
+                    ], 
+                    "id_str": "485625262", 
+                    "screen_name": "Klarity", 
+                    "name": "Greg Davis Jr. \u265b"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        75, 
+                        92
+                    ], 
+                    "text": "KevinHartWhatNow"
+                }
+            ], 
+            "urls": [], 
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/KevinHart4real/status/787687225689419776/video/1", 
+                    "display_url": "pic.twitter.com/llPFRmaROU", 
+                    "url": "https://t.co/llPFRmaROU", 
+                    "media_url_https": "https://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg", 
+                    "id_str": "787685050774982657", 
+                    "sizes": {
+                        "small": {
+                            "h": 383, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "large": {
+                            "h": 1152, 
+                            "resize": "fit", 
+                            "w": 2048
+                        }, 
+                        "medium": {
+                            "h": 675, 
+                            "resize": "fit", 
+                            "w": 1200
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        110, 
+                        133
+                    ], 
+                    "type": "photo", 
+                    "id": 787685050774982657, 
+                    "media_url": "http://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg"
+                }
+            ]
+        }, 
+        "retweeted": false, 
+        "coordinates": null, 
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 2627, 
+        "id_str": "787687225689419776", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 23151437, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/769775481692364801/j5nXOVaH_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/mZwaXJBXuw", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "https://goo.gl/nW02Tk", 
+                            "display_url": "goo.gl/nW02Tk"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 30902319, 
+            "profile_sidebar_border_color": "EEEEEE", 
+            "id_str": "23151437", 
+            "profile_background_color": "131516", 
+            "listed_count": 22921, 
+            "is_translation_enabled": true, 
+            "utc_offset": -25200, 
+            "statuses_count": 31620, 
+            "description": "My name is Kevin Hart and I WORK HARD!!! That pretty much sums me up!!! Everybody Wants To Be Famous But Nobody Wants To Do The Work", 
+            "friends_count": 544, 
+            "location": "Philly/LA", 
+            "profile_link_color": "009999", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/769775481692364801/j5nXOVaH_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/23151437/1472363722", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "screen_name": "KevinHart4real", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 47, 
+            "name": "Kevin Hart", 
+            "notifications": false, 
+            "url": "https://t.co/mZwaXJBXuw", 
+            "created_at": "Sat Mar 07 02:02:31 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Sun Oct 16 16:10:43 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+            "media": [
+                {
+                    "additional_media_info": {
+                        "monetizable": false, 
+                        "embeddable": true, 
+                        "call_to_actions": {
+                            "visit_site": {
+                                "url": "http://www.fandango.com/kevin-hart-what-now_188525/movieoverview"
+                            }
+                        }, 
+                        "description": "", 
+                        "title": ""
+                    }, 
+                    "expanded_url": "https://twitter.com/KevinHart4real/status/787687225689419776/video/1", 
+                    "display_url": "pic.twitter.com/llPFRmaROU", 
+                    "url": "https://t.co/llPFRmaROU", 
+                    "media_url_https": "https://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg", 
+                    "video_info": {
+                        "aspect_ratio": [
+                            16, 
+                            9
+                        ], 
+                        "duration_millis": 233359, 
+                        "variants": [
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/pl/I-myR2cbTStFcOhA.m3u8", 
+                                "content_type": "application/x-mpegURL"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/1280x720/A62SrFyO1Win1BYE.mp4", 
+                                "bitrate": 2176000, 
+                                "content_type": "video/mp4"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/320x180/9jKTEW985bybFmmp.mp4", 
+                                "bitrate": 320000, 
+                                "content_type": "video/mp4"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/pl/I-myR2cbTStFcOhA.mpd", 
+                                "content_type": "application/dash+xml"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/640x360/mWvgetsuaSgkxp0E.mp4", 
+                                "bitrate": 832000, 
+                                "content_type": "video/mp4"
+                            }
+                        ]
+                    }, 
+                    "id_str": "787685050774982657", 
+                    "sizes": {
+                        "small": {
+                            "h": 383, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "large": {
+                            "h": 1152, 
+                            "resize": "fit", 
+                            "w": 2048
+                        }, 
+                        "medium": {
+                            "h": 675, 
+                            "resize": "fit", 
+                            "w": 1200
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        110, 
+                        133
+                    ], 
+                    "type": "video", 
+                    "id": 787685050774982657, 
+                    "media_url": "http://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg"
+                }
+            ]
+        }, 
+        "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+        }
+    }, 
+    "user": {
+        "follow_request_sent": false, 
+        "has_extended_profile": true, 
+        "profile_use_background_image": true, 
+        "default_profile_image": false, 
+        "id": 2460406238, 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "verified": false, 
+        "translator_type": "none", 
+        "profile_text_color": "333333", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/772805949342027776/XCv29TdE_normal.jpg", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "followers_count": 292, 
+        "profile_sidebar_border_color": "C0DEED", 
+        "id_str": "2460406238", 
+        "profile_background_color": "C0DEED", 
+        "listed_count": 3, 
+        "is_translation_enabled": false, 
+        "utc_offset": null, 
+        "statuses_count": 7934, 
+        "description": "Where The Spirit of the Lord is , There Is Freedom\u270d", 
+        "friends_count": 525, 
+        "location": "243\u2708919 ", 
+        "profile_link_color": "0084B4", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/772805949342027776/XCv29TdE_normal.jpg", 
+        "following": false, 
+        "geo_enabled": true, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2460406238/1471745952", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "screen_name": "Chillantho", 
+        "lang": "en", 
+        "profile_background_tile": false, 
+        "favourites_count": 2811, 
+        "name": "bigfella", 
+        "notifications": false, 
+        "url": null, 
+        "created_at": "Wed Apr 23 22:21:56 +0000 2014", 
+        "contributors_enabled": false, 
+        "time_zone": null, 
+        "protected": false, 
+        "default_profile": true, 
+        "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Sun Oct 16 20:46:29 +0000 2016", 
+    "in_reply_to_status_id_str": null, 
+    "place": null, 
+    "metadata": {
+        "iso_language_code": "en", 
+        "result_type": "recent"
+    }
+}
+{
+    "contributors": null, 
+    "truncated": false, 
+    "text": "RT @KevinHart4real: Droppa is undefeated in Rap Battles....@Klarity found out the hard way LOL\n#KevinHartWhatNow In theaters now! https://t\u2026", 
+    "is_quote_status": false, 
+    "in_reply_to_status_id": null, 
+    "id": 787756534004527104, 
+    "favorite_count": 0, 
+    "entities": {
+        "symbols": [], 
+        "user_mentions": [
+            {
+                "id": 23151437, 
+                "indices": [
+                    3, 
+                    18
+                ], 
+                "id_str": "23151437", 
+                "screen_name": "KevinHart4real", 
+                "name": "Kevin Hart"
+            }, 
+            {
+                "id": 485625262, 
+                "indices": [
+                    59, 
+                    67
+                ], 
+                "id_str": "485625262", 
+                "screen_name": "Klarity", 
+                "name": "Greg Davis Jr. \u265b"
+            }
+        ], 
+        "hashtags": [
+            {
+                "indices": [
+                    95, 
+                    112
+                ], 
+                "text": "KevinHartWhatNow"
+            }
+        ], 
+        "urls": []
+    }, 
+    "retweeted": false, 
+    "coordinates": null, 
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_user_id": null, 
+    "retweet_count": 2627, 
+    "id_str": "787756534004527104", 
+    "favorited": false, 
+    "retweeted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Droppa is undefeated in Rap Battles....@Klarity found out the hard way LOL\n#KevinHartWhatNow In theaters now! https://t.co/llPFRmaROU", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 787687225689419776, 
+        "favorite_count": 4001, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 485625262, 
+                    "indices": [
+                        39, 
+                        47
+                    ], 
+                    "id_str": "485625262", 
+                    "screen_name": "Klarity", 
+                    "name": "Greg Davis Jr. \u265b"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        75, 
+                        92
+                    ], 
+                    "text": "KevinHartWhatNow"
+                }
+            ], 
+            "urls": [], 
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/KevinHart4real/status/787687225689419776/video/1", 
+                    "display_url": "pic.twitter.com/llPFRmaROU", 
+                    "url": "https://t.co/llPFRmaROU", 
+                    "media_url_https": "https://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg", 
+                    "id_str": "787685050774982657", 
+                    "sizes": {
+                        "small": {
+                            "h": 383, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "large": {
+                            "h": 1152, 
+                            "resize": "fit", 
+                            "w": 2048
+                        }, 
+                        "medium": {
+                            "h": 675, 
+                            "resize": "fit", 
+                            "w": 1200
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        110, 
+                        133
+                    ], 
+                    "type": "photo", 
+                    "id": 787685050774982657, 
+                    "media_url": "http://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg"
+                }
+            ]
+        }, 
+        "retweeted": false, 
+        "coordinates": null, 
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 2627, 
+        "id_str": "787687225689419776", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 23151437, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/769775481692364801/j5nXOVaH_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/mZwaXJBXuw", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "https://goo.gl/nW02Tk", 
+                            "display_url": "goo.gl/nW02Tk"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 30902319, 
+            "profile_sidebar_border_color": "EEEEEE", 
+            "id_str": "23151437", 
+            "profile_background_color": "131516", 
+            "listed_count": 22921, 
+            "is_translation_enabled": true, 
+            "utc_offset": -25200, 
+            "statuses_count": 31620, 
+            "description": "My name is Kevin Hart and I WORK HARD!!! That pretty much sums me up!!! Everybody Wants To Be Famous But Nobody Wants To Do The Work", 
+            "friends_count": 544, 
+            "location": "Philly/LA", 
+            "profile_link_color": "009999", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/769775481692364801/j5nXOVaH_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/23151437/1472363722", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "screen_name": "KevinHart4real", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 47, 
+            "name": "Kevin Hart", 
+            "notifications": false, 
+            "url": "https://t.co/mZwaXJBXuw", 
+            "created_at": "Sat Mar 07 02:02:31 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Sun Oct 16 16:10:43 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+            "media": [
+                {
+                    "additional_media_info": {
+                        "monetizable": false, 
+                        "embeddable": true, 
+                        "call_to_actions": {
+                            "visit_site": {
+                                "url": "http://www.fandango.com/kevin-hart-what-now_188525/movieoverview"
+                            }
+                        }, 
+                        "description": "", 
+                        "title": ""
+                    }, 
+                    "expanded_url": "https://twitter.com/KevinHart4real/status/787687225689419776/video/1", 
+                    "display_url": "pic.twitter.com/llPFRmaROU", 
+                    "url": "https://t.co/llPFRmaROU", 
+                    "media_url_https": "https://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg", 
+                    "video_info": {
+                        "aspect_ratio": [
+                            16, 
+                            9
+                        ], 
+                        "duration_millis": 233359, 
+                        "variants": [
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/pl/I-myR2cbTStFcOhA.m3u8", 
+                                "content_type": "application/x-mpegURL"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/1280x720/A62SrFyO1Win1BYE.mp4", 
+                                "bitrate": 2176000, 
+                                "content_type": "video/mp4"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/320x180/9jKTEW985bybFmmp.mp4", 
+                                "bitrate": 320000, 
+                                "content_type": "video/mp4"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/pl/I-myR2cbTStFcOhA.mpd", 
+                                "content_type": "application/dash+xml"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/640x360/mWvgetsuaSgkxp0E.mp4", 
+                                "bitrate": 832000, 
+                                "content_type": "video/mp4"
+                            }
+                        ]
+                    }, 
+                    "id_str": "787685050774982657", 
+                    "sizes": {
+                        "small": {
+                            "h": 383, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "large": {
+                            "h": 1152, 
+                            "resize": "fit", 
+                            "w": 2048
+                        }, 
+                        "medium": {
+                            "h": 675, 
+                            "resize": "fit", 
+                            "w": 1200
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        110, 
+                        133
+                    ], 
+                    "type": "video", 
+                    "id": 787685050774982657, 
+                    "media_url": "http://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg"
+                }
+            ]
+        }, 
+        "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+        }
+    }, 
+    "user": {
+        "follow_request_sent": false, 
+        "has_extended_profile": false, 
+        "profile_use_background_image": true, 
+        "default_profile_image": true, 
+        "id": 756848998758035459, 
+        "profile_background_image_url_https": null, 
+        "verified": false, 
+        "translator_type": "none", 
+        "profile_text_color": "333333", 
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "followers_count": 19, 
+        "profile_sidebar_border_color": "C0DEED", 
+        "id_str": "756848998758035459", 
+        "profile_background_color": "F5F8FA", 
+        "listed_count": 0, 
+        "is_translation_enabled": false, 
+        "utc_offset": null, 
+        "statuses_count": 15, 
+        "description": "", 
+        "friends_count": 295, 
+        "location": "", 
+        "profile_link_color": "2B7BB9", 
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png", 
+        "following": false, 
+        "geo_enabled": false, 
+        "profile_background_image_url": null, 
+        "screen_name": "supacakes81", 
+        "lang": "en", 
+        "profile_background_tile": false, 
+        "favourites_count": 25, 
+        "name": "Bridget Jones", 
+        "notifications": false, 
+        "url": null, 
+        "created_at": "Sat Jul 23 13:50:37 +0000 2016", 
+        "contributors_enabled": false, 
+        "time_zone": null, 
+        "protected": false, 
+        "default_profile": true, 
+        "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Sun Oct 16 20:46:08 +0000 2016", 
+    "in_reply_to_status_id_str": null, 
+    "place": null, 
+    "metadata": {
+        "iso_language_code": "en", 
+        "result_type": "recent"
+    }
+}
+{
+    "contributors": null, 
+    "truncated": false, 
+    "text": "RT @KevinHart4real: Droppa is undefeated in Rap Battles....@Klarity found out the hard way LOL\n#KevinHartWhatNow In theaters now! https://t\u2026", 
+    "is_quote_status": false, 
+    "in_reply_to_status_id": null, 
+    "id": 787756469450055680, 
+    "favorite_count": 0, 
+    "entities": {
+        "symbols": [], 
+        "user_mentions": [
+            {
+                "id": 23151437, 
+                "indices": [
+                    3, 
+                    18
+                ], 
+                "id_str": "23151437", 
+                "screen_name": "KevinHart4real", 
+                "name": "Kevin Hart"
+            }, 
+            {
+                "id": 485625262, 
+                "indices": [
+                    59, 
+                    67
+                ], 
+                "id_str": "485625262", 
+                "screen_name": "Klarity", 
+                "name": "Greg Davis Jr. \u265b"
+            }
+        ], 
+        "hashtags": [
+            {
+                "indices": [
+                    95, 
+                    112
+                ], 
+                "text": "KevinHartWhatNow"
+            }
+        ], 
+        "urls": []
+    }, 
+    "retweeted": false, 
+    "coordinates": null, 
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_user_id": null, 
+    "retweet_count": 2627, 
+    "id_str": "787756469450055680", 
+    "favorited": false, 
+    "retweeted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Droppa is undefeated in Rap Battles....@Klarity found out the hard way LOL\n#KevinHartWhatNow In theaters now! https://t.co/llPFRmaROU", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 787687225689419776, 
+        "favorite_count": 4001, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 485625262, 
+                    "indices": [
+                        39, 
+                        47
+                    ], 
+                    "id_str": "485625262", 
+                    "screen_name": "Klarity", 
+                    "name": "Greg Davis Jr. \u265b"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        75, 
+                        92
+                    ], 
+                    "text": "KevinHartWhatNow"
+                }
+            ], 
+            "urls": [], 
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/KevinHart4real/status/787687225689419776/video/1", 
+                    "display_url": "pic.twitter.com/llPFRmaROU", 
+                    "url": "https://t.co/llPFRmaROU", 
+                    "media_url_https": "https://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg", 
+                    "id_str": "787685050774982657", 
+                    "sizes": {
+                        "small": {
+                            "h": 383, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "large": {
+                            "h": 1152, 
+                            "resize": "fit", 
+                            "w": 2048
+                        }, 
+                        "medium": {
+                            "h": 675, 
+                            "resize": "fit", 
+                            "w": 1200
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        110, 
+                        133
+                    ], 
+                    "type": "photo", 
+                    "id": 787685050774982657, 
+                    "media_url": "http://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg"
+                }
+            ]
+        }, 
+        "retweeted": false, 
+        "coordinates": null, 
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 2627, 
+        "id_str": "787687225689419776", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 23151437, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/769775481692364801/j5nXOVaH_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/mZwaXJBXuw", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "https://goo.gl/nW02Tk", 
+                            "display_url": "goo.gl/nW02Tk"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 30902319, 
+            "profile_sidebar_border_color": "EEEEEE", 
+            "id_str": "23151437", 
+            "profile_background_color": "131516", 
+            "listed_count": 22921, 
+            "is_translation_enabled": true, 
+            "utc_offset": -25200, 
+            "statuses_count": 31620, 
+            "description": "My name is Kevin Hart and I WORK HARD!!! That pretty much sums me up!!! Everybody Wants To Be Famous But Nobody Wants To Do The Work", 
+            "friends_count": 544, 
+            "location": "Philly/LA", 
+            "profile_link_color": "009999", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/769775481692364801/j5nXOVaH_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/23151437/1472363722", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "screen_name": "KevinHart4real", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 47, 
+            "name": "Kevin Hart", 
+            "notifications": false, 
+            "url": "https://t.co/mZwaXJBXuw", 
+            "created_at": "Sat Mar 07 02:02:31 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Sun Oct 16 16:10:43 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+            "media": [
+                {
+                    "additional_media_info": {
+                        "monetizable": false, 
+                        "embeddable": true, 
+                        "call_to_actions": {
+                            "visit_site": {
+                                "url": "http://www.fandango.com/kevin-hart-what-now_188525/movieoverview"
+                            }
+                        }, 
+                        "description": "", 
+                        "title": ""
+                    }, 
+                    "expanded_url": "https://twitter.com/KevinHart4real/status/787687225689419776/video/1", 
+                    "display_url": "pic.twitter.com/llPFRmaROU", 
+                    "url": "https://t.co/llPFRmaROU", 
+                    "media_url_https": "https://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg", 
+                    "video_info": {
+                        "aspect_ratio": [
+                            16, 
+                            9
+                        ], 
+                        "duration_millis": 233359, 
+                        "variants": [
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/pl/I-myR2cbTStFcOhA.m3u8", 
+                                "content_type": "application/x-mpegURL"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/1280x720/A62SrFyO1Win1BYE.mp4", 
+                                "bitrate": 2176000, 
+                                "content_type": "video/mp4"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/320x180/9jKTEW985bybFmmp.mp4", 
+                                "bitrate": 320000, 
+                                "content_type": "video/mp4"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/pl/I-myR2cbTStFcOhA.mpd", 
+                                "content_type": "application/dash+xml"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/640x360/mWvgetsuaSgkxp0E.mp4", 
+                                "bitrate": 832000, 
+                                "content_type": "video/mp4"
+                            }
+                        ]
+                    }, 
+                    "id_str": "787685050774982657", 
+                    "sizes": {
+                        "small": {
+                            "h": 383, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "large": {
+                            "h": 1152, 
+                            "resize": "fit", 
+                            "w": 2048
+                        }, 
+                        "medium": {
+                            "h": 675, 
+                            "resize": "fit", 
+                            "w": 1200
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        110, 
+                        133
+                    ], 
+                    "type": "video", 
+                    "id": 787685050774982657, 
+                    "media_url": "http://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg"
+                }
+            ]
+        }, 
+        "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+        }
+    }, 
+    "user": {
+        "follow_request_sent": false, 
+        "has_extended_profile": false, 
+        "profile_use_background_image": true, 
+        "default_profile_image": false, 
+        "id": 223141998, 
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/609403637/t8vsqzucaezy3droqp52.jpeg", 
+        "verified": false, 
+        "translator_type": "none", 
+        "profile_text_color": "333333", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/763243944247427072/W-PNC9IN_normal.jpg", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "followers_count": 222, 
+        "profile_sidebar_border_color": "C0DEED", 
+        "id_str": "223141998", 
+        "profile_background_color": "C0DEED", 
+        "listed_count": 0, 
+        "is_translation_enabled": false, 
+        "utc_offset": -18000, 
+        "statuses_count": 8668, 
+        "description": "", 
+        "friends_count": 560, 
+        "location": "CHICAGO", 
+        "profile_link_color": "0084B4", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/763243944247427072/W-PNC9IN_normal.jpg", 
+        "following": false, 
+        "geo_enabled": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/223141998/1466891045", 
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/609403637/t8vsqzucaezy3droqp52.jpeg", 
+        "screen_name": "sumnfresh", 
+        "lang": "en", 
+        "profile_background_tile": true, 
+        "favourites_count": 500, 
+        "name": "G$", 
+        "notifications": false, 
+        "url": null, 
+        "created_at": "Sun Dec 05 14:32:33 +0000 2010", 
+        "contributors_enabled": false, 
+        "time_zone": "Central Time (US & Canada)", 
+        "protected": false, 
+        "default_profile": false, 
+        "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Sun Oct 16 20:45:52 +0000 2016", 
+    "in_reply_to_status_id_str": null, 
+    "place": null, 
+    "metadata": {
+        "iso_language_code": "en", 
+        "result_type": "recent"
+    }
+}
+{
+    "contributors": null, 
+    "truncated": false, 
+    "text": "RT @KevinHart4real: Droppa is undefeated in Rap Battles....@Klarity found out the hard way LOL\n#KevinHartWhatNow In theaters now! https://t\u2026", 
+    "is_quote_status": false, 
+    "in_reply_to_status_id": null, 
+    "id": 787756426219425793, 
+    "favorite_count": 0, 
+    "entities": {
+        "symbols": [], 
+        "user_mentions": [
+            {
+                "id": 23151437, 
+                "indices": [
+                    3, 
+                    18
+                ], 
+                "id_str": "23151437", 
+                "screen_name": "KevinHart4real", 
+                "name": "Kevin Hart"
+            }, 
+            {
+                "id": 485625262, 
+                "indices": [
+                    59, 
+                    67
+                ], 
+                "id_str": "485625262", 
+                "screen_name": "Klarity", 
+                "name": "Greg Davis Jr. \u265b"
+            }
+        ], 
+        "hashtags": [
+            {
+                "indices": [
+                    95, 
+                    112
+                ], 
+                "text": "KevinHartWhatNow"
+            }
+        ], 
+        "urls": []
+    }, 
+    "retweeted": false, 
+    "coordinates": null, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_user_id": null, 
+    "retweet_count": 2627, 
+    "id_str": "787756426219425793", 
+    "favorited": false, 
+    "retweeted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Droppa is undefeated in Rap Battles....@Klarity found out the hard way LOL\n#KevinHartWhatNow In theaters now! https://t.co/llPFRmaROU", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 787687225689419776, 
+        "favorite_count": 4001, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 485625262, 
+                    "indices": [
+                        39, 
+                        47
+                    ], 
+                    "id_str": "485625262", 
+                    "screen_name": "Klarity", 
+                    "name": "Greg Davis Jr. \u265b"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        75, 
+                        92
+                    ], 
+                    "text": "KevinHartWhatNow"
+                }
+            ], 
+            "urls": [], 
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/KevinHart4real/status/787687225689419776/video/1", 
+                    "display_url": "pic.twitter.com/llPFRmaROU", 
+                    "url": "https://t.co/llPFRmaROU", 
+                    "media_url_https": "https://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg", 
+                    "id_str": "787685050774982657", 
+                    "sizes": {
+                        "small": {
+                            "h": 383, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "large": {
+                            "h": 1152, 
+                            "resize": "fit", 
+                            "w": 2048
+                        }, 
+                        "medium": {
+                            "h": 675, 
+                            "resize": "fit", 
+                            "w": 1200
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        110, 
+                        133
+                    ], 
+                    "type": "photo", 
+                    "id": 787685050774982657, 
+                    "media_url": "http://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg"
+                }
+            ]
+        }, 
+        "retweeted": false, 
+        "coordinates": null, 
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 2627, 
+        "id_str": "787687225689419776", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 23151437, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/769775481692364801/j5nXOVaH_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/mZwaXJBXuw", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "https://goo.gl/nW02Tk", 
+                            "display_url": "goo.gl/nW02Tk"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 30902319, 
+            "profile_sidebar_border_color": "EEEEEE", 
+            "id_str": "23151437", 
+            "profile_background_color": "131516", 
+            "listed_count": 22921, 
+            "is_translation_enabled": true, 
+            "utc_offset": -25200, 
+            "statuses_count": 31620, 
+            "description": "My name is Kevin Hart and I WORK HARD!!! That pretty much sums me up!!! Everybody Wants To Be Famous But Nobody Wants To Do The Work", 
+            "friends_count": 544, 
+            "location": "Philly/LA", 
+            "profile_link_color": "009999", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/769775481692364801/j5nXOVaH_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/23151437/1472363722", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "screen_name": "KevinHart4real", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 47, 
+            "name": "Kevin Hart", 
+            "notifications": false, 
+            "url": "https://t.co/mZwaXJBXuw", 
+            "created_at": "Sat Mar 07 02:02:31 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Sun Oct 16 16:10:43 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+            "media": [
+                {
+                    "additional_media_info": {
+                        "monetizable": false, 
+                        "embeddable": true, 
+                        "call_to_actions": {
+                            "visit_site": {
+                                "url": "http://www.fandango.com/kevin-hart-what-now_188525/movieoverview"
+                            }
+                        }, 
+                        "description": "", 
+                        "title": ""
+                    }, 
+                    "expanded_url": "https://twitter.com/KevinHart4real/status/787687225689419776/video/1", 
+                    "display_url": "pic.twitter.com/llPFRmaROU", 
+                    "url": "https://t.co/llPFRmaROU", 
+                    "media_url_https": "https://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg", 
+                    "video_info": {
+                        "aspect_ratio": [
+                            16, 
+                            9
+                        ], 
+                        "duration_millis": 233359, 
+                        "variants": [
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/pl/I-myR2cbTStFcOhA.m3u8", 
+                                "content_type": "application/x-mpegURL"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/1280x720/A62SrFyO1Win1BYE.mp4", 
+                                "bitrate": 2176000, 
+                                "content_type": "video/mp4"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/320x180/9jKTEW985bybFmmp.mp4", 
+                                "bitrate": 320000, 
+                                "content_type": "video/mp4"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/pl/I-myR2cbTStFcOhA.mpd", 
+                                "content_type": "application/dash+xml"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/640x360/mWvgetsuaSgkxp0E.mp4", 
+                                "bitrate": 832000, 
+                                "content_type": "video/mp4"
+                            }
+                        ]
+                    }, 
+                    "id_str": "787685050774982657", 
+                    "sizes": {
+                        "small": {
+                            "h": 383, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "large": {
+                            "h": 1152, 
+                            "resize": "fit", 
+                            "w": 2048
+                        }, 
+                        "medium": {
+                            "h": 675, 
+                            "resize": "fit", 
+                            "w": 1200
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        110, 
+                        133
+                    ], 
+                    "type": "video", 
+                    "id": 787685050774982657, 
+                    "media_url": "http://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg"
+                }
+            ]
+        }, 
+        "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+        }
+    }, 
+    "user": {
+        "follow_request_sent": false, 
+        "has_extended_profile": true, 
+        "profile_use_background_image": true, 
+        "default_profile_image": false, 
+        "id": 781151231687454720, 
+        "profile_background_image_url_https": null, 
+        "verified": false, 
+        "translator_type": "none", 
+        "profile_text_color": "333333", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/781151666544533504/Uo_PC0n8_normal.jpg", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "followers_count": 10, 
+        "profile_sidebar_border_color": "C0DEED", 
+        "id_str": "781151231687454720", 
+        "profile_background_color": "F5F8FA", 
+        "listed_count": 0, 
+        "is_translation_enabled": false, 
+        "utc_offset": null, 
+        "statuses_count": 30, 
+        "description": "", 
+        "friends_count": 67, 
+        "location": "London, England", 
+        "profile_link_color": "2B7BB9", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/781151666544533504/Uo_PC0n8_normal.jpg", 
+        "following": false, 
+        "geo_enabled": false, 
+        "profile_background_image_url": null, 
+        "screen_name": "ignas_pilybas", 
+        "lang": "en", 
+        "profile_background_tile": false, 
+        "favourites_count": 0, 
+        "name": "Ignas", 
+        "notifications": false, 
+        "url": null, 
+        "created_at": "Wed Sep 28 15:19:01 +0000 2016", 
+        "contributors_enabled": false, 
+        "time_zone": null, 
+        "protected": false, 
+        "default_profile": true, 
+        "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Sun Oct 16 20:45:42 +0000 2016", 
+    "in_reply_to_status_id_str": null, 
+    "place": null, 
+    "metadata": {
+        "iso_language_code": "en", 
+        "result_type": "recent"
+    }
+}
+{
+    "contributors": null, 
+    "truncated": false, 
+    "text": "RT @KevinHart4real: Droppa is undefeated in Rap Battles....@Klarity found out the hard way LOL\n#KevinHartWhatNow In theaters now! https://t\u2026", 
+    "is_quote_status": false, 
+    "in_reply_to_status_id": null, 
+    "id": 787756418673684480, 
+    "favorite_count": 0, 
+    "entities": {
+        "symbols": [], 
+        "user_mentions": [
+            {
+                "id": 23151437, 
+                "indices": [
+                    3, 
+                    18
+                ], 
+                "id_str": "23151437", 
+                "screen_name": "KevinHart4real", 
+                "name": "Kevin Hart"
+            }, 
+            {
+                "id": 485625262, 
+                "indices": [
+                    59, 
+                    67
+                ], 
+                "id_str": "485625262", 
+                "screen_name": "Klarity", 
+                "name": "Greg Davis Jr. \u265b"
+            }
+        ], 
+        "hashtags": [
+            {
+                "indices": [
+                    95, 
+                    112
+                ], 
+                "text": "KevinHartWhatNow"
+            }
+        ], 
+        "urls": []
+    }, 
+    "retweeted": false, 
+    "coordinates": null, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_user_id": null, 
+    "retweet_count": 2627, 
+    "id_str": "787756418673684480", 
+    "favorited": false, 
+    "retweeted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Droppa is undefeated in Rap Battles....@Klarity found out the hard way LOL\n#KevinHartWhatNow In theaters now! https://t.co/llPFRmaROU", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 787687225689419776, 
+        "favorite_count": 4001, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 485625262, 
+                    "indices": [
+                        39, 
+                        47
+                    ], 
+                    "id_str": "485625262", 
+                    "screen_name": "Klarity", 
+                    "name": "Greg Davis Jr. \u265b"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        75, 
+                        92
+                    ], 
+                    "text": "KevinHartWhatNow"
+                }
+            ], 
+            "urls": [], 
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/KevinHart4real/status/787687225689419776/video/1", 
+                    "display_url": "pic.twitter.com/llPFRmaROU", 
+                    "url": "https://t.co/llPFRmaROU", 
+                    "media_url_https": "https://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg", 
+                    "id_str": "787685050774982657", 
+                    "sizes": {
+                        "small": {
+                            "h": 383, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "large": {
+                            "h": 1152, 
+                            "resize": "fit", 
+                            "w": 2048
+                        }, 
+                        "medium": {
+                            "h": 675, 
+                            "resize": "fit", 
+                            "w": 1200
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        110, 
+                        133
+                    ], 
+                    "type": "photo", 
+                    "id": 787685050774982657, 
+                    "media_url": "http://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg"
+                }
+            ]
+        }, 
+        "retweeted": false, 
+        "coordinates": null, 
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 2627, 
+        "id_str": "787687225689419776", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 23151437, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/769775481692364801/j5nXOVaH_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/mZwaXJBXuw", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "https://goo.gl/nW02Tk", 
+                            "display_url": "goo.gl/nW02Tk"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 30902319, 
+            "profile_sidebar_border_color": "EEEEEE", 
+            "id_str": "23151437", 
+            "profile_background_color": "131516", 
+            "listed_count": 22921, 
+            "is_translation_enabled": true, 
+            "utc_offset": -25200, 
+            "statuses_count": 31620, 
+            "description": "My name is Kevin Hart and I WORK HARD!!! That pretty much sums me up!!! Everybody Wants To Be Famous But Nobody Wants To Do The Work", 
+            "friends_count": 544, 
+            "location": "Philly/LA", 
+            "profile_link_color": "009999", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/769775481692364801/j5nXOVaH_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/23151437/1472363722", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "screen_name": "KevinHart4real", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 47, 
+            "name": "Kevin Hart", 
+            "notifications": false, 
+            "url": "https://t.co/mZwaXJBXuw", 
+            "created_at": "Sat Mar 07 02:02:31 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Sun Oct 16 16:10:43 +0000 2016", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+            "media": [
+                {
+                    "additional_media_info": {
+                        "monetizable": false, 
+                        "embeddable": true, 
+                        "call_to_actions": {
+                            "visit_site": {
+                                "url": "http://www.fandango.com/kevin-hart-what-now_188525/movieoverview"
+                            }
+                        }, 
+                        "description": "", 
+                        "title": ""
+                    }, 
+                    "expanded_url": "https://twitter.com/KevinHart4real/status/787687225689419776/video/1", 
+                    "display_url": "pic.twitter.com/llPFRmaROU", 
+                    "url": "https://t.co/llPFRmaROU", 
+                    "media_url_https": "https://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg", 
+                    "video_info": {
+                        "aspect_ratio": [
+                            16, 
+                            9
+                        ], 
+                        "duration_millis": 233359, 
+                        "variants": [
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/pl/I-myR2cbTStFcOhA.m3u8", 
+                                "content_type": "application/x-mpegURL"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/1280x720/A62SrFyO1Win1BYE.mp4", 
+                                "bitrate": 2176000, 
+                                "content_type": "video/mp4"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/320x180/9jKTEW985bybFmmp.mp4", 
+                                "bitrate": 320000, 
+                                "content_type": "video/mp4"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/pl/I-myR2cbTStFcOhA.mpd", 
+                                "content_type": "application/dash+xml"
+                            }, 
+                            {
+                                "url": "https://video.twimg.com/amplify_video/787685050774982657/vid/640x360/mWvgetsuaSgkxp0E.mp4", 
+                                "bitrate": 832000, 
+                                "content_type": "video/mp4"
+                            }
+                        ]
+                    }, 
+                    "id_str": "787685050774982657", 
+                    "sizes": {
+                        "small": {
+                            "h": 383, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "large": {
+                            "h": 1152, 
+                            "resize": "fit", 
+                            "w": 2048
+                        }, 
+                        "medium": {
+                            "h": 675, 
+                            "resize": "fit", 
+                            "w": 1200
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        110, 
+                        133
+                    ], 
+                    "type": "video", 
+                    "id": 787685050774982657, 
+                    "media_url": "http://pbs.twimg.com/media/Cu5sS_7VIAA5vnJ.jpg"
+                }
+            ]
+        }, 
+        "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+        }
+    }, 
+    "user": {
+        "follow_request_sent": false, 
+        "has_extended_profile": true, 
+        "profile_use_background_image": true, 
+        "default_profile_image": false, 
+        "id": 2149961437, 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "verified": false, 
+        "translator_type": "none", 
+        "profile_text_color": "333333", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/780251464249647109/s64qrgIl_normal.jpg", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "followers_count": 172, 
+        "profile_sidebar_border_color": "C0DEED", 
+        "id_str": "2149961437", 
+        "profile_background_color": "C0DEED", 
+        "listed_count": 0, 
+        "is_translation_enabled": false, 
+        "utc_offset": -25200, 
+        "statuses_count": 2476, 
+        "description": "We the \ud83d\udd11", 
+        "friends_count": 141, 
+        "location": "", 
+        "profile_link_color": "0084B4", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/780251464249647109/s64qrgIl_normal.jpg", 
+        "following": false, 
+        "geo_enabled": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2149961437/1474862284", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "screen_name": "_lenaiaaaa", 
+        "lang": "en", 
+        "profile_background_tile": false, 
+        "favourites_count": 1534, 
+        "name": "Lenaia", 
+        "notifications": false, 
+        "url": null, 
+        "created_at": "Wed Oct 23 00:35:56 +0000 2013", 
+        "contributors_enabled": false, 
+        "time_zone": "Pacific Time (US & Canada)", 
+        "protected": false, 
+        "default_profile": true, 
+        "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Sun Oct 16 20:45:40 +0000 2016", 
+    "in_reply_to_status_id_str": null, 
+    "place": null, 
+    "metadata": {
+        "iso_language_code": "en", 
+        "result_type": "recent"
+    }
+}
