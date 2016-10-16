@@ -1,0 +1,10 @@
+Download the Python Twitter tools at https://pypi.python.org/pypi/twitter.
+
+python setup.py build     
+
+python setup.py install
+
+Create an app on https://apps.twitter.com/ and then create auth tokens
+
+You guys can clone this git@github.com:ravneetg/twitter.git
+
