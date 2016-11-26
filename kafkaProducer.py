@@ -1,4 +1,3 @@
-
 from kafka.client import KafkaClient
 from kafka.producer import SimpleProducer
 from datetime import datetime
