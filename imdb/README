@@ -1,7 +1,0 @@
-Support transfer the whole IMDB's databased from plain text data file to SQL database.
-
-Need to
-
-1. Install SQLobject object relational manager.
-2. pip install -U SQLObject
-
