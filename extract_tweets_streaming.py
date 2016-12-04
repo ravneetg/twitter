@@ -12,11 +12,13 @@ from kafka.producer import SimpleProducer
 import json
 import urllib2
 
+
 # update api url
 data = json.load(urllib2.urlopen("http://127.0.0.1:5000/movies"))
 movienames= data['moviename'][0]
 #print movienames
-#### sample data - [u'#moana', u'#doctorstrange', u'#allied', u'#arrivalmovie', u'#badsanta2', u'#almostchristmasmovie']
+#### sample data -
+###movienames=[u'#moana', u'#doctorstrange', u'#allied', u'#arrivalmovie', u'#badsanta2', u'#almostchristmasmovie']
 
 #***********producer = KafkaProducer(value_serializer=lambda v: json.dumps(v).encode('utf-8'))
 client = SimpleClient("localhost:9092")
