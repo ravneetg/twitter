@@ -1,5 +1,8 @@
 
 # coding: utf-8
+import sys
+import codecs
+sys.stdout = codecs.getwriter('utf8')(sys.stdout)
 
 # In[45]:
 
@@ -7,7 +10,7 @@ from kafka import KafkaConsumer
 import pandas as pd
 import json
 import pandas as pd
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 from textblob import TextBlob
 import nltk
 import gensim
@@ -20,6 +23,7 @@ from textprocessing import preprocessing
 from nltk.sentiment.vader import SentimentIntensityAnalyzer as Vader
 from textprocessing import textfeatures
 import psycopg2
+from django.utils.encoding import smart_str, smart_unicode
 
 
 # In[46]:
@@ -128,11 +132,21 @@ def cleantweettext(tweets):
     tweets['text_clean'] = [re.sub(r"#\S+", "", v) for v in tweets.text_clean.values.tolist()]
     tweets['text_clean'] = [re.sub(r"@\S+", "", v) for v in tweets.text_clean.values.tolist()]
     tweets['text_clean'] = [re.sub(r"u'RT\S+", "", v) for v in tweets.text_clean.values.tolist()]
-    tweets['text'] = [v.replace('\n'," ") for v in tweets.text.values.tolist()]
-    tweets['text_clean'] = preprocessing.clean_text(text=tweets.text_clean.values, 
-                         remove_short_tokens_flag=False,  
-                         lemmatize_flag=True)  
-
+    #tweets['text'] = [v.replace('\n'," ") for v in tweets.text.values.tolist()]
+    #tweets['text'] = [v.replace(u"\u2018", " ").replace(u"\u2019", " ") for v in tweets.text.values.tolist()]
+    try:
+       tweets['text'] = [smart_str(v) for v in tweets.text.values.tolist()]    
+    except UnicodeDecodeError: 
+       tweets['text'] = [v.decode('utf-8') for v in tweets.text.values.tolist()]   
+    try:
+       tweets['user_nm'] = [smart_str(v) for v in tweets.user_nm.values.tolist()]
+    except UnicodeDecodeError: 
+       tweets['user_nm'] = [v.decode('utf-8') for v in tweets.user_nm.values.tolist()]
+    try:
+       tweets['location'] = [smart_str(v) for v in tweets.location.values.tolist()]
+    except UnicodeDecodeError:  
+       tweets['location'] = [v.decode('utf-8') for v in tweets.location.values.tolist()]        
+    tweets['text_clean'] = preprocessing.clean_text(text=tweets.text_clean.values, remove_short_tokens_flag=False ,lemmatize_flag=True)  
 
 # In[49]:
 
@@ -161,7 +175,7 @@ def cleanse_dataframe_and_load(tweets,conn, dbcur):
         pass
     else:
         querystr = dbcur.mogrify("INSERT INTO tweets VALUES (%s, %s, %s, %s, %s, %s, %s,%s, %s, %s,%s, %s, %s, %s, %s, %s) ON CONFLICT DO NOTHING;", data)
-        print querystr
+        #print querystr
         dbcur.execute(querystr)
         conn.commit()
 
@@ -180,7 +194,7 @@ def inserttweetwords(tweets, conn, dbcur):
             movie_nm = tweets['movie'][0]
             word_sent = ["positive" if score > 0 else "neutral" if score == 0 else "negative"]
             querystr = dbcur.mogrify("INSERT INTO tweet_words as tw (word, movie, count, word_sentiment) VALUES (%s, %s, 1, %s) ON CONFLICT (word) DO UPDATE SET count = tw.count + 1 WHERE tw.word = %s and tw.movie = %s ;", (each, movie_nm, word_sent, each, movie_nm))
-            print querystr
+            #print querystr
             dbcur.execute(querystr)
             conn.commit()
             
@@ -219,6 +233,4 @@ tweets.text_clean.values.tolist()
 
 
 # In[ ]:
-
-
 
