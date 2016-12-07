@@ -1,25 +1,25 @@
 
 drop table if exists tweets;
 
-create table tweets (text varchar(250) PRIMARY KEY NOT NULL,
-movie varchar(50),
-language varchar(50),
-country varchar(50),
-user_nm varchar(50),
-screen_nm varchar(50),
-coordinates_lat varchar(50),
-coordinates_long varchar(50),
-location varchar(50),
+create table tweets (text varchar(500) PRIMARY KEY NOT NULL,
+movie varchar(500),
+language varchar(500),
+country varchar(500),
+user_nm varchar(500),
+screen_nm varchar(500),
+coordinates_lat varchar(500),
+coordinates_long varchar(500),
+location varchar(500),
 retweets_count INTEGER,
 followers_count INTEGER,
 favourites_count INTEGER,
 friends_count INTEGER,
-text_clean varchar(250),
+text_clean varchar(500),
 sentiment_score float,
-sentiment varchar(50));
+sentiment varchar(500));
 
 
 drop table if exists tweet_words;
 
-create table tweet_words (word varchar(50) PRIMARY KEY NOT NULL, movie varchar(40),
-count integer, word_sentiment varchar(50));
+create table tweet_words (word varchar(500) PRIMARY KEY NOT NULL, movie varchar(500),
+count integer, word_sentiment varchar(500));
