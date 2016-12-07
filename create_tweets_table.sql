@@ -21,5 +21,5 @@ sentiment varchar(50));
 
 drop table if exists tweet_words;
 
-create table tweet_words (word varchar(50) PRIMARY KEY NOT NULL, movie as varchar(40),
+create table tweet_words (word varchar(50) PRIMARY KEY NOT NULL, movie varchar(40),
 count integer, word_sentiment varchar(50));
