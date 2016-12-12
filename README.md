@@ -34,7 +34,7 @@
         search_movie.py
         store_data_hive.sql
 
-## Section 3 1. Pre-requisites
+## Section 3 a. Pre-requisites
    PYTHON setup
    Download the Python Twitter tools at https://pypi.python.org/pypi/twitter.
    if needed - sudo apt-get install python-setuptools
