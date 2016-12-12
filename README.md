@@ -2,7 +2,7 @@
 #Analytic Engine for Movies
 ## Team member: Ravneet Ghuman, Guillaume De Roo, Varadarajan Srinivasan, Qian Yu
 
-## Section 1. Files and Descriptions
+## Section 1. Key Files and Descriptions
 ### Twitter Movie Data
   * extract_tweets_restful.py -- Program that extracts one time batch pull of movie tweets and queues it to Kafka Messaging system
   * extract_tweets_streaming.py -- Program that streams live tweets & sends it to Kafka consumer
@@ -14,7 +14,7 @@
   * testapi.py -- Testapi program extracts movie names from hive tables, transforms names into hashtags and passes that onto batch and streaming producer scripts
 
 ### IMDB Movie Data
-  * get_new_movies.py -- a program to query IMDB restful API with IMDB movie IDs
+  * get_new_movies.py -- a program to query IMDB restful API with IMDB movie IDs and write data to postgres table, and a .csv file
   * search_movie.py -- a utility program to query IMDB restful API with movie titles
 
 ## Section 2. Directory Structure
@@ -66,13 +66,64 @@
   
   IMDB Data Query
 
-    Build IMDB SQL database (This is an optional step if you want to have a SQL DB of IMDB movies/TV in your own storage)
-    1. Building 
+    Query IMDB Restful API
     
+    1. Install IMDBPy
     
+      > pip install imdbpy
+   
+    2. Query movies with sample program
+  
+      > python get_new_movies.py 
+      
+    3. Store data to hive table
+    
+      > hive -f store_data_hive.sql
+
+
+    Build IMDB SQL database 
+    Note: This is optional only if you want to have a SQL DB of IMDB movies/TV in your own storage, 
+          our end to end flow did not use this approach)
+          
+    1. Download IMDB files at ftp://ftp.fu-berlin.de
+    
+    2. Install SQLobject object relational manager
+    
+    3. Create a DB in an SQL database tool such as Postgres
+    
+    4. Install IMDBPy
+    
+      >pip install imdbpy
+      
+    5. Building IMDB relational DB with IMDBPy (This step may take a few hours)
+    
+      > imdbpy2sql.py -d /IMDB/download_area/ -u 'postgresql://localhost/imdb'
+      
+    6. Query IMDB SQL database with the example python program
+    
+      > python get_data_imdbSQL_sample.py
+    
+    Tableau Dashboard
+    
+    1. Lauch tableau online
+    
+    2. Enjoy the dashboard
     
 ## Section 4. Tools and Packages
-
-
+   
+   Kafka version 2.11
+   
+   Hadoop 2.6
+   
+   Anaconda Python 2.7
+   
+   Postgres 9.6
+   
+   Apache Hive 2.1
+   
 
 ## Section 5. Known Issues and Limitations
+
+We face several software tool, compatibility and integration issues
+
+1. Python NTL package miss 
