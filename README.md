@@ -101,7 +101,8 @@
    D. Edit the vader.py in the same directory as follows:
    ```
    1. In the class SentimentIntensityAnalyzer(object) in and around line 196:
-      a. First modify the path name to absolute path to vader_lexicon.txt file.
+      a. First modify the path name of lexicon_file in def __init__ function to absolute path to vader_lexicon.txt file.
+         As an example: def __init__(self, lexicon_file="/home/w205user/anaconda2/lib/python2.7/site-packages/nltk/sentiment/vader_lexicon.txt")
       b. In the same class, modify one line in the function make_lex_dict:
          (i) for line in self.lexicon_file.split('\n'): should be changed to for line in self.lexicon_file.split('\n')[:-1]:
       c. save and exit
