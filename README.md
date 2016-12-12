@@ -35,36 +35,36 @@
         store_data_hive.sql
 
 ## Section 3 1. Pre-requisites
-## PYTHON setup
-### Download the Python Twitter tools at https://pypi.python.org/pypi/twitter.
-### if needed - sudo apt-get install python-setuptools
+   PYTHON setup
+   Download the Python Twitter tools at https://pypi.python.org/pypi/twitter.
+   if needed - sudo apt-get install python-setuptools
 
-python setup.py build
-python setup.py install
+   python setup.py build
+   python setup.py install
 
-pip install flask
-pip install flask-restful
-pip install sqlalchemy
+   pip install flask
+   pip install flask-restful
+   pip install sqlalchemy
 
-## TWITTER setup
-##Create an app on https://apps.twitter.com/ and then create auth tokens
+#### TWITTER setup
+   Create an app on https://apps.twitter.com/ and then create auth tokens
 
-## ZOOKEEPER Setup
-###Download zookeeper from
-###http://www.apache.org/dyn/closer.cgi/zookeeper/
+#### ZOOKEEPER Setup
+   Download zookeeper from
+   http://www.apache.org/dyn/closer.cgi/zookeeper/
 
-###start zookeeper
-sudo bin/zkServer.sh start
+####start zookeeper
+  sudo bin/zkServer.sh start
 
-###KAFKA Setup
-###Download kafka from
-###https://kafka.apache.org/
+#### KAFKA Setup
+#### Download kafka from
+#### https://kafka.apache.org/
 
-###start kafka
-bin/kafka-server-start.sh config/server.properties
+####start kafka
+   bin/kafka-server-start.sh config/server.properties
 
-###start kafka-client if you want to view messages are being written
-bin/kafka-console-consumer.sh --zookeeper localhost:2181 --topic Twitter --from-beginning
+#### start kafka-client if you want to view messages are being written
+   bin/kafka-console-consumer.sh --zookeeper localhost:2181 --topic Twitter --from-beginning
 
 ## Section 3 b. Steps to Run
 
