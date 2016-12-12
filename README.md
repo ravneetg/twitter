@@ -69,7 +69,7 @@
 #### start kafka-client if you want to view messages are being written
    bin/kafka-console-consumer.sh --zookeeper localhost:2181 --topic Twitter --from-beginning
    
-#### Data Analytics Set-up
+#### Data Analytics Set-up & steps to address Vader Package related issues
    A. Install the following python packages first:
    ```
    1. pip install kafka
