@@ -17,6 +17,9 @@
   * get_new_movies.py -- a program to query IMDB restful API with IMDB movie IDs and write data to postgres table, and a .csv file
   * search_movie.py -- a utility program to query IMDB restful API with movie titles
 
+### Tableau Dashboard
+  * Dashboard.twb -- a dashboard transforming the databases into a report useful to analysts
+
 ## Section 2. Directory Structure
     /twitter/
       extract_tweets_restful.py
@@ -143,11 +146,13 @@
     
    Tableau Dashboard
     
-    1. Lauch tableau online
+    0. Simply enjoy the dashboard at https://10az.online.tableau.com/#/site/w205movieproject/views
     
-    2. Enjoy the dashboard at https://10az.online.tableau.com/#/site/w205movieproject/views
+    1. Create a Tableau Server
     
-    3. If you have modified the PostGres database address, point the Dashboard towards the new database
+    2. Upload Dashboard.twb onto the Server
+    
+    3. Edit the connection of the Dashboard to the PostGres database
     
 ## Section 4. Tools and Packages
    
@@ -161,6 +166,7 @@
    
    Apache Hive 2.1
    
+   Tableau Desktop 10.0.2
 
 ## Section 5. Known Issues and Challenges
 
