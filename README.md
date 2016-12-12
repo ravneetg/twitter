@@ -28,7 +28,7 @@
           textfeatures.py
           utils.py
     /rest-api/
-          testapi.py
+          app.py
     /imdb/
         get_new_movie.py
         search_movie.py
@@ -78,15 +78,17 @@ bin/kafka-console-consumer.sh --zookeeper localhost:2181 --topic Twitter --from-
   
       /$path/kafka_2.11-0.10.1.0/bin/kafka-server-start.sh /$path/kafka_2.11-0.10.1.0/config/server.properties
       
-    3. Launch kafak producers
+    3. Launch API for movie names
+       > nohup python app.py &
+      Launch kafak producers
     
       Restful Tweets
       
-        > python extract_tweets_restful.py
+        > nohup python extract_tweets_restful.py &
   
       Streaming Tweets
       
-      > python extract_tweets_streaming.py
+      > nohup python extract_tweets_streaming.py &
       
     4. Define a tweet data table in postgres
     
@@ -94,7 +96,7 @@ bin/kafka-console-consumer.sh --zookeeper localhost:2181 --topic Twitter --from-
       
     5. Launch kafka consumer
     
-      > python kafka_Consumer.py
+      > nohup python kafka_Consumer.py &
   
   IMDB Data Query
 
