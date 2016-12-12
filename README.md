@@ -68,6 +68,53 @@
 
 #### start kafka-client if you want to view messages are being written
    bin/kafka-console-consumer.sh --zookeeper localhost:2181 --topic Twitter --from-beginning
+   
+#### Data Analytics Set-up
+   A. Install the following python packages first:
+   ```
+   1. pip install kafka
+   2. pip install pandas
+   3. pip install json
+   4. pip install textblob
+   5. pip install nltk
+   6. pip install gensim
+   7. pip install spacy
+   8. pip install re
+   9. pip install psycopg2
+   10. pip install django
+   11. pip install Ipython
+   12. pip install re
+   13. pip install codecs
+   ```
+   B. Download Vader Sentiment Lexicon (vader_lexicon.txt) from this git page
+   https://github.com/cjhutto/vaderSentiment/tree/master/vaderSentiment
+   
+   C. Copy the vader_lexicon.txt into the following directory
+   ```
+   cd /anaconda/lib/python2.7/site-packages/nltk/sentiment
+      
+   if your anaconda folder name is named as anaconda2 then:
+   
+   cd ~/anaconda2/lib/python2.7/site-packages/nltk/sentiment
+
+   ```
+   D. Edit the vader.py in the same directory as follows:
+   ```
+   1. In the class SentimentIntensityAnalyzer(object) in and around line 196:
+      a. First modify the path name to absolute path to vader_lexicon.txt file.
+      b. In the same class, modify one line in the function make_lex_dict:
+         (i) for line in self.lexicon_file.split('\n'): should be changed to for line in self.lexicon_file.split('\n')[:-1]:
+      c. save and exit
+   ```
+   E. Import additional nltk packages:
+   ```
+   1. Start a python shell by typing python on command line:
+      a. In the python shell type following commands:
+         import nltk
+         nltk.download('stopwords')
+         nltk.download('wordnet')
+   2. If you get any other missing nltk packages error, use the same method above to download those packages.
+   ```   
 
 #### TABLEAU Setup
   Set up a Tableau Server
