@@ -76,7 +76,7 @@
   
       > python get_new_movies.py 
       
-    3. Store data to hive table
+    3. Store data to hive table if needed
     
       > hive -f store_data_hive.sql
 
@@ -107,7 +107,7 @@
     
     1. Lauch tableau online
     
-    2. Enjoy the dashboard
+    2. Enjoy the dashboard at https://10az.online.tableau.com/#/site/w205movieproject/views
     
 ## Section 4. Tools and Packages
    
@@ -122,8 +122,14 @@
    Apache Hive 2.1
    
 
-## Section 5. Known Issues and Limitations
+## Section 5. Known Issues and Challenges
 
 We face several software tool, compatibility and integration issues
 
-1. Python NTL package miss 
+1. When we conduct sentiment analysis, we found that python 2.7 NTL package misses Vader Lexicon score file, it needs to be installed manually
+
+2. When using python hiver package to write hive tables, we faced TTransport Exception that prevent the hive table to be written
+
+3. Tableau connection to postgres and hive are challenging mainly due to permission issues
+
+4. It took many hours to built a IMDB SQL database. The schedme from IPDBPy are very convoluted and difficult to use. As a result, we decided to use the restful API.
