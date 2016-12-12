@@ -91,7 +91,7 @@
    
    C. Copy the vader_lexicon.txt into the following directory
    ```
-   cd /anaconda/lib/python2.7/site-packages/nltk/sentiment
+   cd ~/anaconda/lib/python2.7/site-packages/nltk/sentiment
       
    if your anaconda folder name is named as anaconda2 then:
    
