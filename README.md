@@ -66,6 +66,10 @@
 #### start kafka-client if you want to view messages are being written
    bin/kafka-console-consumer.sh --zookeeper localhost:2181 --topic Twitter --from-beginning
 
+#### TABLEAU Setup
+  Set up a Tableau Server
+  or simply accept the invitation to https://10az.online.tableau.com/t/w205movieproject/
+
 ## Section 3 b. Steps to Run
 
   Twitter Steaming and Batch Data Ingestion
@@ -137,11 +141,13 @@
     
       > python get_data_imdbSQL_sample.py
     
-    Tableau Dashboard
+   Tableau Dashboard
     
     1. Lauch tableau online
     
     2. Enjoy the dashboard at https://10az.online.tableau.com/#/site/w205movieproject/views
+    
+    3. If you have modified the PostGres database address, point the Dashboard towards the new database
     
 ## Section 4. Tools and Packages
    
@@ -164,6 +170,6 @@ We face several software tool, compatibility and integration issues
 
 2. When using python hiver package to write hive tables, we faced TTransport Exception that prevent the hive table to be written
 
-3. Tableau connection to postgres and hive are challenging mainly due to permission issues
+3. Tableau connection to postgres creates some delay at launch. Connection to hive introduced even more lag (in addition to formatting issues). Potentially, database should be converted to .tde onto the Tableau Server directly to improve performance.
 
 4. It took many hours to built a IMDB SQL database. The schedme from IPDBPy are very convoluted and difficult to use. As a result, we decided to use the restful API.
