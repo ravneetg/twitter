@@ -45,6 +45,13 @@ bin/kafka-server-start.sh config/server.properties
 bin/kafka-console-consumer.sh --zookeeper localhost:2181 --topic Twitter --from-beginning
 
 ########################################################################################################################
+### HADOOP SETUP
+########################################################################################################################
+
+wget http://archive.cloudera.com/cdh5/cdh/5/hadoop-latest.tar.gz
+tar -xvzf hadoop-latest.tar.gz 
+
+########################################################################################################################
 # GITHUB
 ########################################################################################################################
 You guys can clone this git@github.com:ravneetg/twitter.git
