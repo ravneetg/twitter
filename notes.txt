@@ -4,6 +4,10 @@
 ###Download the Python Twitter tools at https://pypi.python.org/pypi/twitter.
 ## if needed - sudo apt-get install python-setuptools
 
+## Anaconda 2.7 Version installation
+wget https://repo.continuum.io/archive/Anaconda2-4.2.0-Linux-x86_64.sh
+bash Anaconda2-4.2.0-Linux-x86_64.sh
+
 python setup.py build
 python setup.py install
 
