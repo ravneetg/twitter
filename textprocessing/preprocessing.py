@@ -11,6 +11,7 @@ from nltk.stem import WordNetLemmatizer
 
 from textprocessing.utils import log
 
+#nltk.data.path.append('/home/w205user/nltk/nltk')
 
 def _u(text):
     """

@@ -19,6 +19,10 @@ sentiment_score float,
 sentiment varchar(50));
 
 
+
+ALTER TABLE tweets ADD COLUMN created_at TIMESTAMP;
+ALTER TABLE tweets ALTER COLUMN created_at SET DEFAULT now();
+
 drop table if exists tweet_words;
 
 create table tweet_words (word varchar(50) PRIMARY KEY NOT NULL, movie as varchar(40),

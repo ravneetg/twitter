@@ -279,8 +279,8 @@ def score_sentiment(text, method = "vader"):
 
     Args:
         text (string or Unicode): text to be scored.
-        method ("vader" or "capone"): method of scoring; "vader" is a generic method, "capone" is
-            not yet implemented.
+        method ("vader"): method of scoring; "vader" is a generic method
+
 
     Returns:
         for method = "vader", a dictionary of sentiment attributes

@@ -24,10 +24,11 @@ from nltk.sentiment.vader import SentimentIntensityAnalyzer as Vader
 from textprocessing import textfeatures
 import psycopg2
 from django.utils.encoding import smart_str, smart_unicode
+from datetime import datetime
 
 
 # In[46]:
-
+#nltk.data.path.append('/home/w205user/nltk/nltk')
 def initialize(db_name = "tweetdata"):
     '''
     Initialize a function that takes postgres database name as arguent and sets up a pandas dataframe.
@@ -36,8 +37,9 @@ def initialize(db_name = "tweetdata"):
     '''
     tweets = pd.DataFrame() # set-up an pandas dataframe
     # set-up a postgres connection
-    conn = psycopg2.connect(database=db_name, user="postgres", password="pass", host="localhost", port="5432")
+    conn = psycopg2.connect(database=db_name, user="postgres",password="pass",  host="localhost", port="5432")
     dbcur = conn.cursor()
+    print "connection successful"
     return (tweets, conn, dbcur)
 
 
@@ -46,7 +48,7 @@ def initialize(db_name = "tweetdata"):
 def extracttweetfeatures(tweets,output):
     '''
     extracttweetfeatures function takes tweets dataframe and a output list as input. Output list comprises of the list
-    of all tweets in a json format consumed by json consumer. Function theb extracts the important features such as 
+    of all tweets in a json format consumed by json consumer. Function theb extracts the important features such as
     tweet text, movie name, language, country, user name, coordinates, location, retweets count.
     '''
     try:
@@ -54,9 +56,9 @@ def extracttweetfeatures(tweets,output):
     except IndexError:
         tweets['text'] = 'Data Error'
     try:
-        tweets['movie'] = map(lambda tweet: tweet['entities']['hashtags'][0]['text'], output) 
+        tweets['movie'] = map(lambda tweet: tweet['entities']['hashtags'][0]['text'], output)
     except IndexError:
-        tweets['movie'] = 'Data Error' 
+        tweets['movie'] = 'Data Error'
     try:
         tweets['lang'] = map(lambda tweet: tweet['user']['lang'], output)
     except IndexError:
@@ -69,7 +71,7 @@ def extracttweetfeatures(tweets,output):
         tweets['user_nm'] = map(lambda tweet: tweet['user']['name'].encode('utf-8'), output)
     except IndexError:
         tweets['user_nm'] = 'Data Error'
-        
+
     try:
         tweets['screen_nm'] = map(lambda tweet: tweet['user']['screen_name'].encode('utf-8'), output)
     except IndexError:
@@ -96,25 +98,25 @@ def extracttweetfeatures(tweets,output):
     except IndexError:
         tweets['location'] = 'Data Error'
     try:
-        tweets['retweets_count'] = map(lambda tweet: tweet['retweeted_status']['retweet_count'], output)  
+        tweets['retweets_count'] = map(lambda tweet: tweet['retweeted_status']['retweet_count'], output)
     except IndexError:
         tweets['retweets_count'] = 0
     except KeyError:
         tweets['retweets_count'] = 0
     try:
-        tweets['followers_count'] = map(lambda tweet: tweet['user']['followers_count'], output)   
+        tweets['followers_count'] = map(lambda tweet: tweet['user']['followers_count'], output)
     except IndexError:
         tweets['followers_count'] = 0
     except KeyError:
         tweets['followers_count'] = 0
     try:
-        tweets['favourites_count'] = map(lambda tweet: tweet['user']['favourites_count'], output)   
+        tweets['favourites_count'] = map(lambda tweet: tweet['user']['favourites_count'], output)
     except IndexError:
         tweets['favourites_count'] = 0
     except KeyError:
         tweets['favourites_count'] = 0
     try:
-        tweets['friends_count'] = map(lambda tweet: tweet['user']['friends_count'], output)   
+        tweets['friends_count'] = map(lambda tweet: tweet['user']['friends_count'], output)
     except IndexError:
         tweets['friends_count'] = 0
     except KeyError:
@@ -135,24 +137,24 @@ def cleantweettext(tweets):
     #tweets['text'] = [v.replace('\n'," ") for v in tweets.text.values.tolist()]
     #tweets['text'] = [v.replace(u"\u2018", " ").replace(u"\u2019", " ") for v in tweets.text.values.tolist()]
     try:
-       tweets['text'] = [smart_str(v) for v in tweets.text.values.tolist()]    
-    except UnicodeDecodeError: 
-       tweets['text'] = [v.decode('utf-8') for v in tweets.text.values.tolist()]   
+       tweets['text'] = [smart_str(v) for v in tweets.text.values.tolist()]
+    except UnicodeDecodeError:
+       tweets['text'] = [v.decode('utf-8') for v in tweets.text.values.tolist()]
     try:
        tweets['user_nm'] = [smart_str(v) for v in tweets.user_nm.values.tolist()]
-    except UnicodeDecodeError: 
+    except UnicodeDecodeError:
        tweets['user_nm'] = [v.decode('utf-8') for v in tweets.user_nm.values.tolist()]
     try:
        tweets['location'] = [smart_str(v) for v in tweets.location.values.tolist()]
-    except UnicodeDecodeError:  
-       tweets['location'] = [v.decode('utf-8') for v in tweets.location.values.tolist()]        
-    tweets['text_clean'] = preprocessing.clean_text(text=tweets.text_clean.values, remove_short_tokens_flag=False ,lemmatize_flag=True)  
+    except UnicodeDecodeError:
+       tweets['location'] = [v.decode('utf-8') for v in tweets.location.values.tolist()]
+    tweets['text_clean'] = preprocessing.clean_text(text=tweets.text_clean.values, remove_short_tokens_flag=False ,lemmatize_flag=True)
 
 # In[49]:
 
 def calculatesentiments(tweets):
     '''
-    calculatesentiments function takes tweets dataframe. Function then uses vader lexicon to compute the sentiment 
+    calculatesentiments function takes tweets dataframe. Function then uses vader lexicon to compute the sentiment
     scores for all the tweets. Further, the scores are then used to classify tweets as positive, negative and neutral.
     '''
     tweets['sentiment_score'] = [textfeatures.score_sentiment(v)['compound'] for v in tweets.text_clean.values.tolist()]
@@ -165,16 +167,20 @@ def calculatesentiments(tweets):
 
 def cleanse_dataframe_and_load(tweets,conn, dbcur):
     '''
-    cleanse_dataframe_and_load function takes tweets dataframe, postgres connector and cursor. 
+    cleanse_dataframe_and_load function takes tweets dataframe, postgres connector and cursor.
     Function dedupes the data frame for any duplicate tweets and then inserts the rows into the postgres database
     '''
     tweet_dedup = tweets.drop_duplicates(['text'], keep =False)
-    data = [tuple(x) for x in tweet_dedup.to_records(index=False)][0]
-    #print data
+    data1 = [tuple(x) for x in tweet_dedup.to_records(index=False)][0]
+    #print dat
+    temp = list(data1)
+    dt = datetime.now()
+    temp.append(dt)
+    data = tuple(temp)   
     if data[0] == 'Data Error':
         pass
     else:
-        querystr = dbcur.mogrify("INSERT INTO tweets VALUES (%s, %s, %s, %s, %s, %s, %s,%s, %s, %s,%s, %s, %s, %s, %s, %s) ON CONFLICT DO NOTHING;", data)
+        querystr = dbcur.mogrify("INSERT INTO tweets VALUES (%s, %s, %s, %s, %s, %s, %s,%s, %s, %s,%s, %s, %s, %s, %s, %s,%s) ON CONFLICT DO NOTHING;", data)
         #print querystr
         dbcur.execute(querystr)
         conn.commit()
@@ -188,7 +194,7 @@ def inserttweetwords(tweets, conn, dbcur):
     print tweet_words
     for each in tweet_words:
         if len(each) <= 3:
-            pass 
+            pass
         else:
             score = textfeatures.score_sentiment(each)['compound']
             movie_nm = tweets['movie'][0]
@@ -197,7 +203,7 @@ def inserttweetwords(tweets, conn, dbcur):
             #print querystr
             dbcur.execute(querystr)
             conn.commit()
-            
+
 
 
 # In[52]:
@@ -207,7 +213,7 @@ def main():
     main function initiates a kafka consumer, initialize the tweetdata database. Consumer consumes tweets from producer
     extracts features, cleanses the tweet text, calculates sentiments and loads the data into postgres database
     '''
-    consumer = KafkaConsumer('movies')  # set-up a Kafka consumer
+    consumer = KafkaConsumer('Twitter')  # set-up a Kafka consumer
     tweets,conn, dbcur = initialize(db_name = "tweetdata")
     for msg in consumer:
         output = []
@@ -229,8 +235,7 @@ if __name__ == "__main__":
 
 # In[ ]:
 
-tweets.text_clean.values.tolist()
+#tweets.text_clean.values.tolist()
 
 
 # In[ ]:
-
