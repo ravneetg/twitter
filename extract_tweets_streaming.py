@@ -15,9 +15,11 @@ import urllib2
 # update api url
 data = json.load(urllib2.urlopen("http://127.0.0.1:5000/movies"))
 movienames= data['moviename'][0]
+
 print(movienames)
 #### sample data -
 #movienames=[u'#moana', u'#doctorstrange', u'#allied', u'#arrivalmovie', u'#badsanta2', u'#almostchristmasmovie', u'#assassinscreed', u'#collateralbeauty', u'#fantasticbeastsandwheretofindthem', u'#jackie', u'#lalaland', u'#passengers', u'#rogueonestarwarsstory', u'#sing']
+
 #***********producer = KafkaProducer(value_serializer=lambda v: json.dumps(v).encode('utf-8'))
 client = SimpleClient("localhost:9092")
 producer = SimpleProducer(client)
@@ -32,6 +34,7 @@ consumer_key = '7FZTvlJt8eVKu1tuDdIani7va'
 consumer_secret = 'E45Vju021cgh7Jy32AwCVrPvHW1I9nK0CRafms3rwyhxY0uf0x'
 access_token = '762217521571180544-WiSHyXsaV6MJ9reso2WqS4mVh8moVyS'
 access_token_secret = 'L6O2hoZpzxUUBnqvZ5Qn1OAo2Jmdfo5pUzpdwPRoaVEMg'
+
 
 class StdOutListener(StreamListener):
     """ A listener handles tweets that are received from the stream.
