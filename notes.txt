@@ -35,6 +35,9 @@ sudo bin/zkServer.sh start
 ###Download kafka from
 ###https://kafka.apache.org/
 
+wget http://apache.spinellicreations.com/kafka/0.10.1.0/kafka_2.11-0.10.1.0.tgz
+tar -xvzf kafka_2.11-0.10.1.0.tgz
+
 ###start kafka
 bin/kafka-server-start.sh config/server.properties
 
