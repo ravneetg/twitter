@@ -120,8 +120,14 @@
    ```   
 
 #### TABLEAU Setup
-  Set up a Tableau Server
-  or simply accept the invitation to https://10az.online.tableau.com/t/w205movieproject/
+
+   ```
+   1. Download Tableau Desktop, version 10.0.2 on your desktop
+      a. Trial version may not have ability to publish to server, so use student license if possible)
+   2. Set up a Tableau Server
+      a. Accept the invitation sent to you for https://10az.online.tableau.com/t/w205movieproject/
+      b. Create a new Tableau Server (there is a free trial version)
+   ``` 
 
 ## Section 3 b. Steps to Run
 
@@ -196,13 +202,19 @@
     
    Tableau Dashboard
     
-    0. Simply enjoy the dashboard at https://10az.online.tableau.com/#/site/w205movieproject/views
+    0. See current Tableau Dashboard at https://10az.online.tableau.com/#/site/w205movieproject/workbooks/1159644/views If a modification of datasource or display is needed, do the steps below
     
-    1. Create a Tableau Server
+    1. Download Dashboard.twb present on GitHub onto your desktop
     
-    2. Upload Dashboard.twb onto the Server
+    2. When it opens, give the current PostGres database password: "pass"
     
-    3. Edit the connection of the Dashboard to the PostGres database
+    3. Modify the dashboard, or the datasources in the "Data Source" section
+    
+    4. Once potential modifications are done, go to Server and Sign into your Tableau Server
+    
+    5. Then Publish by going to Server > Publish Workbook (select to embed password)
+    
+    6. Once it is published, select the worbook, and select Data Source. They should appear live. Click on Edit connection to make sure that the password for the PostGres database has been saved
     
 ## Section 4. Tools and Packages
    
